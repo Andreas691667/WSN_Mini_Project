@@ -19,6 +19,12 @@ static struct simple_udp_connection udp_conn;
 PROCESS(udp_client, "UDP client");
 AUTOSTART_PROCESSES(&udp_client);
 
+int generate_gaussian(int mean, int std_dev){
+    float u1 = (float)random_rand() / RANDOM_RAND_MAX;
+    float u2 = (float)random_rand() / RANDOM_RAND_MAX;
+    float z0 = sqrt(-2.0 * log(u1)) * cos(2 * M_PI * u2);
+    return (int)(z0 * std_dev + mean + 0.5); // Round to the nearest integer
+}
 PROCESS_THREAD(udp_client, ev, data)
 {
     uip_ipaddr_t server_ipaddr;
@@ -39,13 +45,23 @@ PROCESS_THREAD(udp_client, ev, data)
 
         if (NETSTACK_ROUTING.node_is_reachable() &&
             NETSTACK_ROUTING.get_root_ipaddr(&server_ipaddr))
-        {
-            // prepare and send random integer
-            int random_number = random_rand() % 100;
-            printf("Sending random number: %d to:", random_number);
+        {   
+
+            // Generate Gaussian-distributed integer
+            int mean = 50;       // Example mean
+            int std_dev = 15;    // Example standard deviation
+            int gaussian_int = generate_gaussian_int(mean, std_dev);
+
+            printf("Sending Gaussian integer: %d to:", gaussian_int);
             LOG_INFO_6ADDR(&server_ipaddr);
             printf("\n");
-            simple_udp_sendto(&udp_conn, &random_number, sizeof(random_number), &server_ipaddr);
+            simple_udp_sendto(&udp_conn, &gaussian_int, sizeof(gaussian_int), &server_ipaddr);
+            // prepare and send random integer
+            // int random_number = random_rand() % 100;
+            // printf("Sending random number: %d to:", random_number);
+            // LOG_INFO_6ADDR(&server_ipaddr);
+            // printf("\n");
+            // simple_udp_sendto(&udp_conn, &random_number, sizeof(random_number), &server_ipaddr);
 
             // // Prepare and send "Hello, World" message
             // const char *message = "Hello, World";
