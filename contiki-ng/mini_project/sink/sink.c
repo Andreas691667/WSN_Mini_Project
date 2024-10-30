@@ -27,20 +27,26 @@ static void udp_rx_callback(struct simple_udp_connection *conn,
 {
     // square the received integer
     int received_number = *((int *) data);
-    int squared_number = received_number * received_number;
-    LOG_INFO("Received number: %d from ", received_number);
+    LOG_INFO("Received data: %d from ", received_number);
     LOG_INFO_6ADDR(sender_addr);
     LOG_INFO_("\n");
-    LOG_INFO("Number squared: %d\n", squared_number);
 }
+
+// static void set_server_ip_address(void)
+// {
+// 	// construct the server's IP address
+// 	uip_ip6addr_t ipaddr;
+//   uip_ip6addr(&ipaddr, 0xfe80, 0, 0, 0, 0x0202, 0, 0x0002, 0x0002);	
+
+// 	// set the server's IP address
+//   printf("Server IP address set to ");
+// }
 
 PROCESS_THREAD(udp_server, ev, data)
 {
     PROCESS_BEGIN();
 
-    uip_ipaddr_t addr;
-    uip_ipaddr(&addr, 192,168,1,2);
-    uip_sethostaddr(&addr);
+    // set_server_ip_address();
 
     // Register UDP connection and callback function
     simple_udp_register(&udp_conn, SERVER_PORT, NULL, CLIENT_PORT, udp_rx_callback);
