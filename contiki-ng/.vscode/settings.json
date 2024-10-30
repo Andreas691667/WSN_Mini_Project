@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.pl": "prolog",
+        "math.h": "c",
+        "sht11-sensor.h": "c",
+        "energest.h": "c",
+        "inttypes.h": "c",
+        "radio.h": "c",
+        "netstack.h": "c"
+    }
+}

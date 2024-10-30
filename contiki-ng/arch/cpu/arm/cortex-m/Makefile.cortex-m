@@ -1,0 +1,28 @@
+MAKEFILES_CUSTOMRULES += $(CONTIKI_NG_RELOC_CPU_DIR)/arm/cortex-m/Makefile.customrules-cortex-m
+
+ifndef CMSIS_PATH
+    CMSIS_PATH = CMSIS/CMSIS
+
+    CMSIS_ROOT = $(CONTIKI)/$(CONTIKI_NG_ARM_DIR)/$(CMSIS_PATH)
+    ifeq (,$(wildcard $(CMSIS_ROOT)/*))
+        $(warning $(CMSIS_ROOT) does not exist or is empty.)
+        $(warning Did you run 'git submodule update --init' ?)
+        $(error "")
+    endif
+    CONTIKI_ARM_DIRS += $(CMSIS_PATH)/Core/Include
+endif
+
+CONTIKI_ARM_DIRS += cortex-m
+
+### Build syscalls for newlib
+MODULES += os/lib/newlib
+
+LDFLAGS += -T $(LDSCRIPT)
+LDFLAGS += -Wl,--gc-sections,--sort-section=alignment
+# The next line might be trying to avoid
+# https://sourceware.org/bugzilla/show_bug.cgi?id=28910
+LDFLAGS += -Wl,--no-warn-mismatch
+
+OBJCOPY_FLAGS += --gap-fill 0xff
+
+include $(CONTIKI)/$(CONTIKI_NG_ARM_DIR)/Makefile.arm
