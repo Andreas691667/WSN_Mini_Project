@@ -25,7 +25,7 @@ define CUSTOM_RULE_CPP_TO_E
 endef
 
 
-CONTIKI = ../../..
+CONTIKI = ../..
 include $(CONTIKI)/Makefile.include
 
 CUSTOM_CFLAGS += $(filter-out -Wno-unused-const-variable,$(CFLAGS))
