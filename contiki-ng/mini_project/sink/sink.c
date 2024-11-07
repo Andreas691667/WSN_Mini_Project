@@ -35,11 +35,11 @@ static void udp_rx_callback(struct simple_udp_connection *conn,
 
         // Calculate latency
         clock_time_t current_time = clock_time();
-        clock_time_t latency = current_time - payload.timestamp;
+        // clock_time_t latency = current_time - payload.timestamp;
 
         LOG_INFO("Received data: %d from ", payload.sample);
         LOG_INFO_6ADDR(sender_addr);
-        LOG_INFO_(" with latency: %lu ticks (%lu ms)\n", (unsigned long)latency, (unsigned long)(latency * 1000 / CLOCK_SECOND));
+        LOG_INFO_(" at time: %lu \n", (unsigned long)current_time);
     }
 }
 

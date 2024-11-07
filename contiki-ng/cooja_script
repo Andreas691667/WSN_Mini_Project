@@ -1,0 +1,18 @@
+
+/*
+ * Example Contiki test script (JavaScript).
+ * A Contiki test script acts on mote output, such as via printf()'s.
+ * The script may operate on the following variables:
+ *  Mote mote, int id, String msg
+ */
+
+var basePort = 60001;
+
+TIMEOUT(60000);
+
+var serverSocket = new java.net.ServerSocket(60001);
+
+while (true) {
+  log.log(time + ":" + id + ":" + msg + "\n");
+  YIELD();
+}
