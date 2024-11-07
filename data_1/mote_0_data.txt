@@ -1,0 +1,16 @@
+[INFO: App       ] Sending integer: 36 with timestamp 104652
+[INFO: App       ] Sending integer: 77 with timestamp 105399
+[INFO: App       ] Sending integer: 5 with timestamp 105993
+[INFO: App       ] Sending integer: 65 with timestamp 106542
+[INFO: App       ] Sending integer: 45 with timestamp 107192
+[INFO: App       ] Sending integer: 3 with timestamp 107893
+[INFO: App       ] Sending integer: 43 with timestamp 108609
+[INFO: App       ] Sending integer: 51 with timestamp 109224
+[INFO: App       ] Sending integer: 53 with timestamp 109990
+[INFO: App       ] Sending integer: 72 with timestamp 110565
+[INFO: App       ] Sending integer: 54 with timestamp 111259
+[INFO: App       ] Sending integer: 21 with timestamp 111988
+[INFO: App       ] Sending integer: 35 with timestamp 112610
+[INFO: App       ] Sending integer: 15 with timestamp 113363
+[INFO: App       ] Sending integer: 52 with timestamp 114019
+[INFO: App       ] Sending integer: 76 with timestamp 114540

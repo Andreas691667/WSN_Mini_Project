@@ -4,7 +4,7 @@
     <title>mini_project</title>
     <speedlimit>20.0</speedlimit>
     <randomseed>123456</randomseed>
-    <motedelay_us>1000000</motedelay_us>
+    <motedelay_us>0</motedelay_us>
     <radiomedium>
       org.contikios.cooja.radiomediums.UDGM
       <transmitting_range>50.0</transmitting_range>
