@@ -3,7 +3,7 @@
 #include "net/ipv6/simple-udp.h"
 #include "random.h"
 #include "sys/log.h"
-#include "sys/stimer.h" // Include stimer for timing
+#include "sys/clock.h" // Include clock for finer timing
 
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
@@ -13,7 +13,6 @@
 #define SEND_INTERVAL (5 * CLOCK_SECOND)
 
 static struct simple_udp_connection udp_conn;
-static struct stimer send_timer; // Define an stimer
 
 PROCESS(udp_client, "UDP client");
 AUTOSTART_PROCESSES(&udp_client);
@@ -31,7 +30,7 @@ PROCESS_THREAD(udp_client, ev, data)
     static struct etimer periodic_timer;
     static struct {
         int sample;
-        uint32_t timestamp;
+        clock_time_t timestamp;
     } payload; // Structure to hold data and timestamp
 
     PROCESS_BEGIN();
@@ -43,12 +42,10 @@ PROCESS_THREAD(udp_client, ev, data)
     while (1) {       
         PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 
-        // Set stimer and get timestamp
-        stimer_reset(&send_timer);
         payload.sample = generate_uniform(min, max);
-        payload.timestamp = stimer_expiration_time(&send_timer);
+        payload.timestamp = clock_time(); // Get current time in ticks
 
-        LOG_INFO("Sending integer: %d with timestamp %lu\n", payload.sample, payload.timestamp);
+        LOG_INFO("Sending integer: %d with timestamp %lu\n", payload.sample, (unsigned long)payload.timestamp);
         simple_udp_send(&udp_conn, &payload, sizeof(payload));
 
         etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
