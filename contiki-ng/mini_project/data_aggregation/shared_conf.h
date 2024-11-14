@@ -1,0 +1,2 @@
+#define SERVER_PORT 5678
+#define CLIENT_PORT 8765

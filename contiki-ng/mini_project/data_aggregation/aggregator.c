@@ -2,11 +2,7 @@
 #include <stdio.h>
 #include "net/ipv6/simple-udp.h"
 #include <message.c>
-
-// #define LOG_MODULE "Server"
-
-#define SERVER_PORT 5678
-#define CLIENT_PORT 8765
+#include <shared_conf.h>
 
 static struct simple_udp_connection udp_conn;
 

@@ -5,9 +5,8 @@
 #include "sys/clock.h"
 #include "sys/node-id.h"
 #include <message.c>
+#include <shared_conf.h>
 
-#define SERVER_PORT 5678
-#define CLIENT_PORT 8765
 #define SEND_INTERVAL (5 * CLOCK_SECOND)
 #define SAMPLE_MIN 0
 #define SAMPLE_MAX 100
