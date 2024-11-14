@@ -2,7 +2,6 @@
 <simconf version="2023090101">
   <simulation>
     <title>data_aggregation_sim</title>
-    <speedlimit>20.0</speedlimit>
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
@@ -76,6 +75,16 @@
           <id>2</id>
         </interface_config>
       </mote>
+      <mote>
+        <interface_config>
+          org.contikios.cooja.interfaces.Position
+          <pos x="14.984065870331541" y="51.636128473839825" />
+        </interface_config>
+        <interface_config>
+          org.contikios.cooja.mspmote.interfaces.MspMoteID
+          <id>3</id>
+        </interface_config>
+      </mote>
     </motetype>
   </simulation>
   <plugin>
@@ -86,7 +95,7 @@
       <skin>org.contikios.cooja.plugins.skins.GridVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.UDGMVisualizerSkin</skin>
-      <viewport>4.560985345790663 0.0 0.0 4.560985345790663 -12.856834516868323 50.44840709203145</viewport>
+      <viewport>4.311275815425868 0.0 0.0 4.311275815425868 99.89718575246998 -36.25143027532711</viewport>
     </plugin_config>
     <bounds x="1" y="1" height="400" width="400" />
   </plugin>
@@ -97,19 +106,7 @@
       <formatted_time />
       <coloring />
     </plugin_config>
-    <bounds x="400" y="160" height="240" width="936" z="3" />
-  </plugin>
-  <plugin>
-    org.contikios.cooja.plugins.TimeLine
-    <plugin_config>
-      <mote>0</mote>
-      <mote>1</mote>
-      <showRadioRXTX />
-      <showRadioHW />
-      <showLEDs />
-      <zoomfactor>500.0</zoomfactor>
-    </plugin_config>
-    <bounds x="0" y="429" height="166" width="1336" z="2" />
+    <bounds x="400" y="160" height="387" width="936" z="1" />
   </plugin>
   <plugin>
     org.contikios.cooja.plugins.Notes
@@ -117,6 +114,6 @@
       <notes>Enter notes here</notes>
       <decorations>true</decorations>
     </plugin_config>
-    <bounds x="400" y="0" height="160" width="936" z="1" />
+    <bounds x="400" y="0" height="160" width="936" z="2" />
   </plugin>
 </simconf>
