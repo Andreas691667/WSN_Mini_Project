@@ -8,10 +8,11 @@
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
 
-#define SERVER_PORT 5678
-#define CLIENT_PORT 8765
+#define SERVER_PORT 4565
+#define CLIENT_PORT 8900
 
 static struct simple_udp_connection udp_conn;
+
 
 PROCESS(udp_server, "UDP server");
 AUTOSTART_PROCESSES(&udp_server);
@@ -25,29 +26,34 @@ static void udp_rx_callback(struct simple_udp_connection *conn,
                             const uint8_t *data,
                             uint16_t datalen)
 {
+    LOG_INFO("Received data\n");
+
     struct {
+        uint16_t mote_id;
         int sample;
-        clock_time_t timestamp;
-    } payload;
+        // double variance;
+        // double mean;
+    } message;
 
-    if (datalen == sizeof(payload)) {
-        memcpy(&payload, data, sizeof(payload));
-
-        // Calculate latency
-        clock_time_t current_time = clock_time();
-        // clock_time_t latency = current_time - payload.timestamp;
-
-        LOG_INFO("Received data: %d from ", payload.sample);
+    if (datalen == sizeof(message))
+    {
+        memcpy(&message, data, sizeof(message));
+        LOG_INFO("Received data: %d from ", message.sample);
         LOG_INFO_6ADDR(sender_addr);
-        LOG_INFO_(" at time: %lu \n", (unsigned long)current_time);
+        LOG_INFO_("\n");
     }
+
+    // message_t payload;
+    // memcpy(&payload, data, sizeof(payload));
+    // printf("Received data: %d from ", payload.sample);
+    
 }
 
 PROCESS_THREAD(udp_server, ev, data)
 {
     PROCESS_BEGIN();
-
     // Register UDP connection and callback
+    LOG_INFO("Starting UDP server\n");
     simple_udp_register(&udp_conn, SERVER_PORT, NULL, CLIENT_PORT, udp_rx_callback);
 
     PROCESS_END();
