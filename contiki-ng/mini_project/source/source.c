@@ -5,12 +5,13 @@
 #include "sys/log.h"
 #include "sys/clock.h" // Include clock for finer timing
 #include "sys/node-id.h"
+#include "net/netstack.h"
 
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
 
-#define SERVER_PORT 4565
-#define CLIENT_PORT 8900
+#define SERVER_PORT 5678
+#define CLIENT_PORT 8765
 #define SEND_INTERVAL (5 * CLOCK_SECOND)
 #define SAMPLE_MIN 0
 #define SAMPLE_MAX 100
@@ -72,21 +73,27 @@ PROCESS_THREAD(udp_client, ev, data)
     uip_ip6addr_t server_ipaddr;
     uip_ip6addr(&server_ipaddr, 0xfe80, 0, 0, 0, 0x0212, 0x7403, 0x0003, 0x0303);
 
-    static struct {
-        uint16_t mote_id;
-        int sample;
-        // double variance;
-        // double mean;
-    } message;
+    // static struct {
+    //     // uint16_t mote_id;
+    //     int sample;
+    //     // double variance;
+    //     // double mean;
+    // } message;
 
+    static struct {
+        int sample;
+    } message;
 
     PROCESS_BEGIN();
 
-    initialize_distribution_param();
+    NETSTACK_MAC.on();
+    NETSTACK_RADIO.on();
 
     // Register UDP connection
-    simple_udp_register(&udp_conn, CLIENT_PORT, &server_ipaddr, SERVER_PORT, NULL);
+    simple_udp_register(&udp_conn, CLIENT_PORT, NULL, SERVER_PORT, NULL);
     etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
+
+    initialize_distribution_param();
 
     while (1) {       
         PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
@@ -96,14 +103,15 @@ PROCESS_THREAD(udp_client, ev, data)
         sample_num++;
         // update_distribution(message.sample, sample_num);
 
-        message.mote_id = node_id;
+        // message.mote_id = node_id;
         // message.mean = mean;
         // message.variance = variance;
 
         // printf("mote_id: %d, sample: %d, mean: %f, variance: %f\n", message.mote_id, message.sample, message.mean, message.variance);
-        LOG_INFO("mote_id: %d, sample: %d\n", message.mote_id, message.sample);
+        // LOG_INFO("mote_id: %d, sample: %d\n", message.mote_id, message.sample);
+        LOG_INFO("sample: %d\n", message.sample);
         // simple_udp_send(&udp_conn, &message, sizeof(message));
-        simple_udp_sendto_port(&udp_conn, &message, sizeof(message), &server_ipaddr, SERVER_PORT);
+        simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
 
         // LOG_INFO_6ADDR(&server_ipaddr);
 

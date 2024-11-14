@@ -4,12 +4,13 @@
 #include "net/netstack.h"
 #include "sys/clock.h" // Include clock for timing
 #include "sys/log.h"
+#include "net/netstack.h"
 
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
 
-#define SERVER_PORT 4565
-#define CLIENT_PORT 8900
+#define SERVER_PORT 5678
+#define CLIENT_PORT 8765
 
 static struct simple_udp_connection udp_conn;
 
@@ -29,10 +30,7 @@ static void udp_rx_callback(struct simple_udp_connection *conn,
     LOG_INFO("Received data\n");
 
     struct {
-        uint16_t mote_id;
         int sample;
-        // double variance;
-        // double mean;
     } message;
 
     if (datalen == sizeof(message))
@@ -55,6 +53,7 @@ PROCESS_THREAD(udp_server, ev, data)
     // Register UDP connection and callback
     LOG_INFO("Starting UDP server\n");
     simple_udp_register(&udp_conn, SERVER_PORT, NULL, CLIENT_PORT, udp_rx_callback);
+    LOG_INFO("Registered UDP connection\n");
 
     PROCESS_END();
 }
