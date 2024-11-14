@@ -25,6 +25,8 @@ static void udp_rx_callback(struct simple_udp_connection *c,
     struct {
         uint16_t node_id;
         int sample;
+        double variance;
+        double mean;
     } message;
 
     if (datalen == sizeof(message)) {

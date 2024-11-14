@@ -66,6 +66,8 @@ void update_distribution(int sample, int sample_num) {
 }
 
 
+
+
 PROCESS_THREAD(udp_client, ev, data)
 {
     static struct etimer periodic_timer;
@@ -90,7 +92,7 @@ PROCESS_THREAD(udp_client, ev, data)
     NETSTACK_RADIO.on();
 
     // Register UDP connection
-    simple_udp_register(&udp_conn, CLIENT_PORT, NULL, SERVER_PORT, NULL);
+    simple_udp_register(&udp_conn, CLIENT_PORT, NULL, SERVER_PORT, &server_ipaddr);
     etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
 
     initialize_distribution_param();
@@ -111,7 +113,7 @@ PROCESS_THREAD(udp_client, ev, data)
         // LOG_INFO("mote_id: %d, sample: %d\n", message.mote_id, message.sample);
         LOG_INFO("sample: %d\n", message.sample);
         // simple_udp_send(&udp_conn, &message, sizeof(message));
-        simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
+        simple_udp_send(&udp_conn, &message, sizeof(message));
 
         // LOG_INFO_6ADDR(&server_ipaddr);
 
