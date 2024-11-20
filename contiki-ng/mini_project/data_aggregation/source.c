@@ -1,5 +1,6 @@
 #include "contiki.h"
 #include <stdio.h>
+#include <stdlib.h>
 #include "net/ipv6/simple-udp.h"
 #include "random.h"
 #include "sys/clock.h"
@@ -38,18 +39,20 @@ void initialize_distribution_param(int *min, int *max)
 }
 
 // update the distribution parameters every 100 samples
-void update_distribution(int sample, int *sample_num, double *running_mean, double *running_squared_mean, double *mean, double *variance)
+void update_distribution(int sample, int *sample_num, double *running_mean, double *running_difference, double *mean, double *variance)
 {
 	*running_mean += (double)sample / WINDOW_SIZE;
-	*running_squared_mean += ((double)sample * (double)sample) / WINDOW_SIZE;
+	// using the last mean to calculate the running mean difference
+	// potential problem: the mean is 0 in the first 100 samples
+	*running_difference += (abs(*mean - (double)sample) * abs(*mean - (double)sample)) / WINDOW_SIZE;
 
-	if (*sample_num == 100)
+	if (*sample_num == (int)WINDOW_SIZE)
 	{
 		*sample_num = 0;
 		*mean = *running_mean;
-		*variance = *running_squared_mean - (*mean * *mean);
+		*variance = *running_difference;
 		*running_mean = 0.;
-		*running_squared_mean = 0.;
+		*running_difference = 0.;
 	}
 }
 
@@ -57,12 +60,12 @@ PROCESS_THREAD(udp_client_process, ev, data)
 {
 	static struct etimer periodic_timer;
 
-	static int min = -1, max = -1;
+	static int min = -1, max = -1; // initialize to -1 signifying they need to be set
 	static int sample_num = 0;
 	static double mean = 0.;
 	static double running_mean = 0.;
 	static double variance = 0.;
-	static double running_squared_mean = 0.;
+	static double running_difference = 0.;
 
 	PROCESS_BEGIN();
 
@@ -85,12 +88,13 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	{
 		PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 
+		message_t message;
 		// Generate a sample and prepare the message
 		message.sample = generate_uniform(min, max);
 
 		// Update the distribution parameters
 		sample_num++;
-		update_distribution(message.sample, &sample_num, &running_mean, &running_squared_mean, &mean, &variance);
+		update_distribution(message.sample, &sample_num, &running_mean, &running_difference, &mean, &variance);
 
 		message.node_id = node_id;
 		message.mean = mean;
