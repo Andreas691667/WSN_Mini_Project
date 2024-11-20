@@ -8,7 +8,7 @@
       org.contikios.cooja.radiomediums.UDGM
       <transmitting_range>50.0</transmitting_range>
       <interference_range>100.0</interference_range>
-      <success_ratio_tx>1.0</success_ratio_tx>
+      <success_ratio_tx>0.7</success_ratio_tx>
       <success_ratio_rx>1.0</success_ratio_rx>
     </radiomedium>
     <events>
@@ -68,7 +68,7 @@
       <mote>
         <interface_config>
           org.contikios.cooja.interfaces.Position
-          <pos x="6.685660189935527" y="20.78015329993903" />
+          <pos x="2.9744617686349133" y="26.115001030558666" />
         </interface_config>
         <interface_config>
           org.contikios.cooja.mspmote.interfaces.MspMoteID
@@ -78,7 +78,7 @@
       <mote>
         <interface_config>
           org.contikios.cooja.interfaces.Position
-          <pos x="14.984065870331541" y="51.636128473839825" />
+          <pos x="16.60771517965056" y="68.80042117235516" />
         </interface_config>
         <interface_config>
           org.contikios.cooja.mspmote.interfaces.MspMoteID
@@ -97,7 +97,7 @@
       <skin>org.contikios.cooja.plugins.skins.UDGMVisualizerSkin</skin>
       <viewport>4.311275815425868 0.0 0.0 4.311275815425868 99.89718575246998 -36.25143027532711</viewport>
     </plugin_config>
-    <bounds x="1" y="1" height="400" width="400" />
+    <bounds x="1" y="1" height="400" width="400" z="1" />
   </plugin>
   <plugin>
     org.contikios.cooja.plugins.LogListener
@@ -106,14 +106,6 @@
       <formatted_time />
       <coloring />
     </plugin_config>
-    <bounds x="400" y="160" height="387" width="936" z="1" />
-  </plugin>
-  <plugin>
-    org.contikios.cooja.plugins.Notes
-    <plugin_config>
-      <notes>Enter notes here</notes>
-      <decorations>true</decorations>
-    </plugin_config>
-    <bounds x="400" y="0" height="160" width="936" z="2" />
+    <bounds x="400" y="0" height="402" width="936" z="2" />
   </plugin>
 </simconf>
