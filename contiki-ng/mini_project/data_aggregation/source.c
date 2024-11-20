@@ -5,6 +5,8 @@
 #include "random.h"
 #include "sys/clock.h"
 #include "sys/node-id.h"
+#include "dev/button-sensor.h" // button sensor
+
 #include <message.c>
 #include <shared_conf.h>
 
@@ -69,7 +71,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 	PROCESS_BEGIN();
 
-	// to avoid generating identical numbers
+	// To avoid generating identical numbers
 	random_init(node_id);
 
 	// Register UDP connection
@@ -84,29 +86,45 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	// Schedule the first transmission
 	etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
 
+	// Button sensor
+	SENSORS_ACTIVATE(button_sensor);
+
+
 	while (1)
 	{
-		PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
+		// PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
+		PROCESS_WAIT_EVENT();
 
-		message_t message;
-		// Generate a sample and prepare the message
-		message.sample = generate_uniform(min, max);
+		// If button push, simulate malfunction
+		if (ev == sensors_event && data == &button_sensor)
+		{
+			printf("Button pushed\n");
+			min = 1000;
+			max = 2000;
+		}
 
-		// Update the distribution parameters
-		sample_num++;
-		update_distribution(message.sample, &sample_num, &running_mean, &running_difference, &mean, &variance);
+		if (etimer_expired(&periodic_timer))
+		{		
+			message_t message;
+			// Generate a sample and prepare the message
+			message.sample = generate_uniform(min, max);
 
-		message.node_id = node_id;
-		message.mean = mean;
-		message.variance = variance;
+			// Update the distribution parameters
+			sample_num++;
+			update_distribution(message.sample, &sample_num, &running_mean, &running_difference, &mean, &variance);
 
-		print_message(message.node_id, message.sample, message.mean, message.variance);
+			message.node_id = node_id;
+			message.mean = mean;
+			message.variance = variance;
 
-		// Send the UDP packet to the server
-		simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
+			print_message(message);
 
-		// Reschedule the next transmission with some jitter
-		etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
+			// Send the UDP packet to the server
+			simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
+	
+			// Reschedule the next transmission with some jitter
+			etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
+		}
 	}
 
 	PROCESS_END();

@@ -127,7 +127,7 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
   private final static String[] COLUMN_NAMES = {
     "Time ms",
     "Mote",
-    "Message",
+    "Message etc.",
     "#"
   };
 
@@ -230,9 +230,11 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
 
         StringBuilder sb = new StringBuilder();
         for (var data : logs) {
+          String messageWithTime = data.getTime() + " " + data.getID() + " " + data.ev.getMessage();
           sb.append(data.getTime()).append("\t");
           sb.append(data.getID()).append("\t");
-          sb.append(data.ev.getMessage()).append("\n");
+          // sb.append(data.ev.getMessage()).append("\n");
+          sb.append(messageWithTime).append("\n");
         }
 
         StringSelection stringSelection = new StringSelection(sb.toString());
