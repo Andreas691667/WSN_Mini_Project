@@ -1,0 +1,776 @@
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 18
+z_mean: 25, z_variance: 15
+Aggregated data: 38.901, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 6, z_variance: 18
+z_mean: 28, z_variance: 15
+Aggregated data: 83.688, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 12, z_variance: 18
+z_mean: 21, z_variance: 15
+Aggregated data: 36.994, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 12, z_variance: 18
+z_mean: 21, z_variance: 15
+Aggregated data: 92.218, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 18
+z_mean: 19, z_variance: 15
+Aggregated data: 15.017, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 18
+z_mean: 17, z_variance: 15
+Aggregated data: 43.774, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 17, z_variance: 17
+z_mean: 15, z_variance: 15
+Aggregated data: 79.616, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 17
+z_mean: 17, z_variance: 15
+Aggregated data: 10.635, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 11, z_variance: 17
+z_mean: 22, z_variance: 15
+Aggregated data: 79.085, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 17
+z_mean: 20, z_variance: 15
+Aggregated data: 36.838, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 17
+z_mean: 16, z_variance: 15
+Aggregated data: 59.356, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 17, z_variance: 17
+z_mean: 15, z_variance: 15
+Aggregated data: 53.273, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 17
+z_mean: 20, z_variance: 15
+Aggregated data: 21.762, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 18, z_variance: 15
+Aggregated data: 37.289, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 18, z_variance: 15
+Aggregated data: 33.752, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 18, z_variance: 15
+Aggregated data: 61.315, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 20, z_variance: 17
+z_mean: 13, z_variance: 15
+Aggregated data: 51.070, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 24, z_variance: 17
+z_mean: 9, z_variance: 15
+Aggregated data: 50.549, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 21, z_variance: 17
+z_mean: 11, z_variance: 15
+Aggregated data: 88.032, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 21, z_variance: 17
+z_mean: 12, z_variance: 15
+Aggregated data: 26.521, Alive: 1 1 1, Missed: 0
+Missed message from node 4
+z_mean: 66, z_variance: 66
+z_mean: 19, z_variance: 17
+z_mean: 14, z_variance: 15
+Aggregated data: 28.584, Alive: 1 1 1, Missed: 1
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 18, z_variance: 15
+Aggregated data: 27.988, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 12, z_variance: 17
+z_mean: 21, z_variance: 15
+Aggregated data: 33.160, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 8, z_variance: 17
+z_mean: 26, z_variance: 15
+Aggregated data: 34.747, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 12, z_variance: 17
+z_mean: 20, z_variance: 15
+Aggregated data: 35.874, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 11, z_variance: 17
+z_mean: 21, z_variance: 15
+Aggregated data: 43.917, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 17
+z_mean: 25, z_variance: 15
+Aggregated data: 3.227, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 17
+z_mean: 25, z_variance: 15
+Aggregated data: 35.372, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 19, z_variance: 15
+Aggregated data: 22.644, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 18, z_variance: 15
+Aggregated data: 52.187, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 26, z_variance: 17
+z_mean: 8, z_variance: 15
+Aggregated data: 50.195, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 29, z_variance: 17
+z_mean: 6, z_variance: 15
+Aggregated data: 36.385, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 25, z_variance: 17
+z_mean: 9, z_variance: 15
+Aggregated data: 18.039, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 20, z_variance: 17
+z_mean: 13, z_variance: 15
+Aggregated data: 26.191, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 21, z_variance: 17
+z_mean: 12, z_variance: 15
+Aggregated data: 50.569, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 17
+z_mean: 20, z_variance: 16
+Aggregated data: 43.213, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 17
+z_mean: 16, z_variance: 16
+Aggregated data: 12.927, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 19, z_variance: 16
+z_mean: 14, z_variance: 16
+Aggregated data: 60.951, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 20, z_variance: 17
+z_mean: 12, z_variance: 16
+Aggregated data: 88.890, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 20, z_variance: 16
+z_mean: 12, z_variance: 16
+Aggregated data: 77.287, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 29, z_variance: 16
+z_mean: 6, z_variance: 16
+Aggregated data: 32.301, Alive: 1 1 1, Missed: 0
+z_mean: 62, z_variance: 66
+z_mean: 33, z_variance: 17
+z_mean: 4, z_variance: 16
+Aggregated data: 71.000, Alive: 1 1 1, Missed: 0
+Missed message from node 3
+z_mean: 65, z_variance: 66
+z_mean: 25, z_variance: 16
+z_mean: 8, z_variance: 16
+Aggregated data: 38.354, Alive: 1 1 1, Missed: 1
+z_mean: 66, z_variance: 66
+z_mean: 21, z_variance: 17
+z_mean: 12, z_variance: 16
+Aggregated data: 84.620, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 25, z_variance: 17
+z_mean: 9, z_variance: 16
+Aggregated data: 58.637, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 29, z_variance: 17
+z_mean: 6, z_variance: 16
+Aggregated data: 53.203, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 29, z_variance: 17
+z_mean: 6, z_variance: 16
+Aggregated data: 64.007, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 29, z_variance: 17
+z_mean: 6, z_variance: 16
+Aggregated data: 71.306, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 27, z_variance: 17
+z_mean: 8, z_variance: 16
+Aggregated data: 47.225, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 27, z_variance: 17
+z_mean: 7, z_variance: 16
+Aggregated data: 59.354, Alive: 1 1 1, Missed: 0
+z_mean: 62, z_variance: 66
+z_mean: 33, z_variance: 17
+z_mean: 4, z_variance: 16
+Aggregated data: 64.318, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 30, z_variance: 17
+z_mean: 6, z_variance: 16
+Aggregated data: 67.257, Alive: 1 1 1, Missed: 0
+z_mean: 56, z_variance: 66
+z_mean: 42, z_variance: 17
+z_mean: 0, z_variance: 15
+Aggregated data: 63.512, Alive: 1 1 1, Missed: 0
+z_mean: 55, z_variance: 66
+z_mean: 43, z_variance: 17
+z_mean: 0, z_variance: 15
+Aggregated data: 7.166, Alive: 1 1 1, Missed: 0
+z_mean: 58, z_variance: 66
+z_mean: 39, z_variance: 17
+z_mean: 2, z_variance: 16
+Aggregated data: 29.692, Alive: 1 1 1, Missed: 0
+z_mean: 62, z_variance: 66
+z_mean: 32, z_variance: 17
+z_mean: 4, z_variance: 16
+Aggregated data: 12.689, Alive: 1 1 1, Missed: 0
+z_mean: 59, z_variance: 66
+z_mean: 37, z_variance: 16
+z_mean: 2, z_variance: 16
+Aggregated data: 56.442, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 30, z_variance: 17
+z_mean: 6, z_variance: 16
+Aggregated data: 53.761, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 18, z_variance: 17
+z_mean: 15, z_variance: 16
+Aggregated data: 48.716, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 21, z_variance: 17
+z_mean: 12, z_variance: 16
+Aggregated data: 55.976, Alive: 1 1 1, Missed: 0
+Missed message from node 2
+z_mean: 65, z_variance: 66
+z_mean: 24, z_variance: 16
+z_mean: 10, z_variance: 16
+Aggregated data: 53.356, Alive: 1 1 1, Missed: 1
+z_mean: 60, z_variance: 66
+z_mean: 36, z_variance: 16
+z_mean: 2, z_variance: 16
+Aggregated data: 36.585, Alive: 1 1 1, Missed: 0
+z_mean: 55, z_variance: 66
+z_mean: 43, z_variance: 16
+z_mean: 0, z_variance: 16
+Aggregated data: 57.468, Alive: 1 1 1, Missed: 0
+z_mean: 45, z_variance: 66
+z_mean: 53, z_variance: 16
+z_mean: 0, z_variance: 16
+Aggregated data: 34.589, Alive: 1 1 1, Missed: 0
+z_mean: 41, z_variance: 66
+z_mean: 57, z_variance: 16
+z_mean: 1, z_variance: 16
+Aggregated data: 72.996, Alive: 1 1 1, Missed: 0
+z_mean: 42, z_variance: 66
+z_mean: 56, z_variance: 16
+z_mean: 0, z_variance: 16
+Aggregated data: 63.892, Alive: 1 1 1, Missed: 0
+z_mean: 46, z_variance: 66
+z_mean: 53, z_variance: 16
+z_mean: 0, z_variance: 16
+Aggregated data: 67.021, Alive: 1 1 1, Missed: 0
+z_mean: 36, z_variance: 66
+z_mean: 60, z_variance: 17
+z_mean: 2, z_variance: 16
+Aggregated data: 80.306, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 47, z_variance: 16
+z_mean: 0, z_variance: 16
+Aggregated data: 52.443, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 47, z_variance: 17
+z_mean: 0, z_variance: 16
+Aggregated data: 84.010, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 18, z_variance: 16
+Aggregated data: 35.511, Alive: 1 1 1, Missed: 0
+z_mean: 39, z_variance: 66
+z_mean: 2, z_variance: 17
+z_mean: 58, z_variance: 16
+Aggregated data: 56.630, Alive: 1 1 1, Missed: 0
+z_mean: 57, z_variance: 66
+z_mean: 1, z_variance: 16
+z_mean: 41, z_variance: 16
+Aggregated data: 72.476, Alive: 1 1 1, Missed: 0
+z_mean: 61, z_variance: 66
+z_mean: 35, z_variance: 17
+z_mean: 3, z_variance: 16
+Aggregated data: 49.086, Alive: 1 1 1, Missed: 0
+z_mean: 13, z_variance: 66
+z_mean: 66, z_variance: 17
+z_mean: 19, z_variance: 16
+Aggregated data: 52.442, Alive: 1 1 1, Missed: 0
+z_mean: 46, z_variance: 66
+z_mean: 0, z_variance: 17
+z_mean: 53, z_variance: 16
+Aggregated data: 43.504, Alive: 1 1 1, Missed: 0
+z_mean: 6, z_variance: 66
+z_mean: 29, z_variance: 17
+z_mean: 63, z_variance: 16
+Aggregated data: 43.496, Alive: 1 1 1, Missed: 0
+z_mean: 18, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 66, z_variance: 16
+Aggregated data: 28.249, Alive: 1 1 1, Missed: 0
+z_mean: 8, z_variance: 66
+z_mean: 26, z_variance: 17
+z_mean: 65, z_variance: 16
+Aggregated data: 31.858, Alive: 1 1 1, Missed: 0
+z_mean: 46, z_variance: 66
+z_mean: 0, z_variance: 17
+z_mean: 53, z_variance: 16
+Aggregated data: 69.537, Alive: 1 1 1, Missed: 0
+z_mean: 8, z_variance: 66
+z_mean: 26, z_variance: 16
+z_mean: 64, z_variance: 16
+Aggregated data: 30.242, Alive: 1 1 1, Missed: 0
+z_mean: 31, z_variance: 66
+z_mean: 5, z_variance: 16
+z_mean: 62, z_variance: 16
+Aggregated data: 22.095, Alive: 1 1 1, Missed: 0
+z_mean: 37, z_variance: 66
+z_mean: 2, z_variance: 17
+z_mean: 59, z_variance: 16
+Aggregated data: 35.115, Alive: 1 1 1, Missed: 0
+z_mean: 20, z_variance: 66
+z_mean: 12, z_variance: 17
+z_mean: 66, z_variance: 16
+Aggregated data: 74.343, Alive: 1 1 1, Missed: 0
+z_mean: 5, z_variance: 66
+z_mean: 31, z_variance: 17
+z_mean: 63, z_variance: 15
+Aggregated data: 46.416, Alive: 1 1 1, Missed: 0
+z_mean: 10, z_variance: 66
+z_mean: 23, z_variance: 17
+z_mean: 65, z_variance: 15
+Aggregated data: 40.293, Alive: 1 1 1, Missed: 0
+z_mean: 13, z_variance: 66
+z_mean: 20, z_variance: 17
+z_mean: 66, z_variance: 15
+Aggregated data: 61.985, Alive: 1 1 1, Missed: 0
+Missed message from node 4
+z_mean: 27, z_variance: 66
+z_mean: 7, z_variance: 17
+z_mean: 64, z_variance: 15
+Aggregated data: 38.091, Alive: 1 1 1, Missed: 1
+z_mean: 37, z_variance: 66
+z_mean: 2, z_variance: 17
+z_mean: 59, z_variance: 15
+Aggregated data: 47.408, Alive: 1 1 1, Missed: 0
+z_mean: 47, z_variance: 66
+z_mean: 0, z_variance: 17
+z_mean: 52, z_variance: 15
+Aggregated data: 38.508, Alive: 1 1 1, Missed: 0
+z_mean: 62, z_variance: 66
+z_mean: 4, z_variance: 18
+z_mean: 33, z_variance: 15
+Aggregated data: 5.656, Alive: 1 1 1, Missed: 0
+z_mean: 58, z_variance: 66
+z_mean: 1, z_variance: 17
+z_mean: 39, z_variance: 15
+Aggregated data: 38.586, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 5, z_variance: 18
+z_mean: 30, z_variance: 15
+Aggregated data: 46.512, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 7, z_variance: 17
+z_mean: 27, z_variance: 15
+Aggregated data: 50.371, Alive: 1 1 1, Missed: 0
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 17
+z_mean: 38, z_variance: 15
+Aggregated data: 26.395, Alive: 1 1 1, Missed: 0
+z_mean: 60, z_variance: 66
+z_mean: 3, z_variance: 17
+z_mean: 36, z_variance: 15
+Aggregated data: 60.402, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 5, z_variance: 17
+z_mean: 30, z_variance: 15
+Aggregated data: 27.646, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 18
+z_mean: 20, z_variance: 15
+Aggregated data: 20.880, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 18, z_variance: 18
+z_mean: 15, z_variance: 15
+Aggregated data: 17.277, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 17, z_variance: 15
+Aggregated data: 21.010, Alive: 1 1 1, Missed: 0
+z_mean: 61, z_variance: 66
+z_mean: 4, z_variance: 17
+z_mean: 34, z_variance: 15
+Aggregated data: 32.833, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 19, z_variance: 15
+Aggregated data: 48.384, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 8, z_variance: 17
+z_mean: 26, z_variance: 15
+Aggregated data: 71.387, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 10, z_variance: 17
+z_mean: 24, z_variance: 15
+Aggregated data: 19.740, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 18
+z_mean: 20, z_variance: 15
+Aggregated data: 56.598, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 11, z_variance: 18
+z_mean: 23, z_variance: 15
+Aggregated data: 38.761, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 7, z_variance: 18
+z_mean: 28, z_variance: 15
+Aggregated data: 39.332, Alive: 1 1 1, Missed: 0
+z_mean: 61, z_variance: 66
+z_mean: 3, z_variance: 17
+z_mean: 35, z_variance: 15
+Aggregated data: 40.993, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 8, z_variance: 18
+z_mean: 26, z_variance: 15
+Aggregated data: 36.784, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 18
+z_mean: 25, z_variance: 14
+Aggregated data: 68.750, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 18
+z_mean: 24, z_variance: 14
+Aggregated data: 61.848, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 18
+z_mean: 18, z_variance: 14
+Aggregated data: 51.467, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 18
+z_mean: 18, z_variance: 14
+Aggregated data: 41.347, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 18
+z_mean: 18, z_variance: 14
+Aggregated data: 12.154, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 10, z_variance: 18
+z_mean: 24, z_variance: 14
+Aggregated data: 63.870, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 18
+z_mean: 25, z_variance: 14
+Aggregated data: 60.298, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 11, z_variance: 18
+z_mean: 22, z_variance: 15
+Aggregated data: 27.998, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 10, z_variance: 18
+z_mean: 23, z_variance: 15
+Aggregated data: 22.898, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 18
+z_mean: 17, z_variance: 14
+Aggregated data: 6.361, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 18
+z_mean: 17, z_variance: 14
+Aggregated data: 90.348, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 10, z_variance: 18
+z_mean: 23, z_variance: 14
+Aggregated data: 38.741, Alive: 1 1 1, Missed: 0
+z_mean: 66, z_variance: 66
+z_mean: 11, z_variance: 18
+z_mean: 22, z_variance: 14
+Aggregated data: 23.864, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 8, z_variance: 18
+z_mean: 26, z_variance: 14
+Aggregated data: 17.758, Alive: 1 1 1, Missed: 0
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 18
+z_mean: 25, z_variance: 14
+Aggregated data: 27.379, Alive: 1 1 1, Missed: 0
+z_mean: 64, z_variance: 66
+z_mean: 7, z_variance: 18
+z_mean: 28, z_variance: 14
+Aggregated data: 27.103, Alive: 1 1 1, Missed: 0
+z_mean: 63, z_variance: 66
+z_mean: 6, z_variance: 18
+z_mean: 30, z_variance: 15
+Aggregated data: 34.489, Alive: 1 1 1, Missed: 0
+Missed message from node 3
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 18
+z_mean: 37, z_variance: 15
+Aggregated data: 39.222, Alive: 1 1 1, Missed: 1
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 15
+Aggregated data: 47.184, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 36.294, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 14
+Aggregated data: 33.145, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 26.821, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 46, z_variance: 14
+Aggregated data: 31.556, Alive: 1 1 1, Missed: 0
+z_mean: 55, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 43, z_variance: 14
+Aggregated data: 54.920, Alive: 1 1 1, Missed: 0
+z_mean: 55, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 44, z_variance: 14
+Aggregated data: 21.293, Alive: 1 1 1, Missed: 0
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 18
+z_mean: 37, z_variance: 14
+Aggregated data: 52.834, Alive: 1 1 1, Missed: 0
+z_mean: 58, z_variance: 66
+z_mean: 1, z_variance: 18
+z_mean: 40, z_variance: 15
+Aggregated data: 33.112, Alive: 1 1 1, Missed: 0
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 18
+z_mean: 38, z_variance: 15
+Aggregated data: 43.355, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 58.028, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 72.408, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 14
+Aggregated data: 17.538, Alive: 1 1 1, Missed: 0
+Missed message from node 2
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 40.979, Alive: 1 1 1, Missed: 1
+z_mean: 54, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 45, z_variance: 14
+Aggregated data: 89.111, Alive: 1 1 1, Missed: 0
+z_mean: 55, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 43, z_variance: 15
+Aggregated data: 61.834, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 45, z_variance: 14
+Aggregated data: 59.774, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 14
+Aggregated data: 80.271, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 63.124, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 15
+Aggregated data: 71.350, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 46, z_variance: 15
+Aggregated data: 62.210, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 46, z_variance: 14
+Aggregated data: 55.459, Alive: 1 1 1, Missed: 0
+z_mean: 56, z_variance: 66
+z_mean: 1, z_variance: 18
+z_mean: 42, z_variance: 14
+Aggregated data: 48.156, Alive: 1 1 1, Missed: 0
+z_mean: 54, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 44, z_variance: 14
+Aggregated data: 51.358, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 75.977, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 45, z_variance: 14
+Aggregated data: 49.749, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 45, z_variance: 14
+Aggregated data: 58.002, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 53.947, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 49, z_variance: 14
+Aggregated data: 65.300, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 48, z_variance: 14
+Aggregated data: 69.051, Alive: 1 1 1, Missed: 0
+z_mean: 48, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 51, z_variance: 14
+Aggregated data: 29.161, Alive: 1 1 1, Missed: 0
+z_mean: 46, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 52, z_variance: 14
+Aggregated data: 14.617, Alive: 1 1 1, Missed: 0
+z_mean: 47, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 52, z_variance: 14
+Aggregated data: 88.775, Alive: 1 1 1, Missed: 0
+z_mean: 48, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 51, z_variance: 14
+Aggregated data: 11.639, Alive: 1 1 1, Missed: 0
+z_mean: 44, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 55, z_variance: 14
+Aggregated data: 51.553, Alive: 1 1 1, Missed: 0
+z_mean: 42, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 56, z_variance: 14
+Aggregated data: 45.801, Alive: 1 1 1, Missed: 0
+z_mean: 40, z_variance: 66
+z_mean: 1, z_variance: 19
+z_mean: 57, z_variance: 14
+Aggregated data: 38.514, Alive: 1 1 1, Missed: 0
+z_mean: 44, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 54, z_variance: 14
+Aggregated data: 35.104, Alive: 1 1 1, Missed: 0
+z_mean: 46, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 53, z_variance: 14
+Aggregated data: 81.141, Alive: 1 1 1, Missed: 0
+z_mean: 44, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 54, z_variance: 14
+Aggregated data: 33.485, Alive: 1 1 1, Missed: 0
+z_mean: 45, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 54, z_variance: 14
+Aggregated data: 26.507, Alive: 1 1 1, Missed: 0
+z_mean: 48, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 51, z_variance: 14
+Aggregated data: 0.512, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 11.559, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 28.385, Alive: 1 1 1, Missed: 0
+z_mean: 48, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 51, z_variance: 14
+Aggregated data: 78.829, Alive: 1 1 1, Missed: 0
+z_mean: 49, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 50, z_variance: 14
+Aggregated data: 2.677, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 16.977, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 14
+Aggregated data: 4.844, Alive: 1 1 1, Missed: 0
+z_mean: 51, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 48, z_variance: 14
+Aggregated data: 45.993, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 33.512, Alive: 1 1 1, Missed: 0
+z_mean: 50, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 49, z_variance: 14
+Aggregated data: 44.133, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 46, z_variance: 14
+Aggregated data: 25.610, Alive: 1 1 1, Missed: 0
+z_mean: 56, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 43, z_variance: 14
+Aggregated data: 43.059, Alive: 1 1 1, Missed: 0
+z_mean: 54, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 44, z_variance: 14
+Aggregated data: 66.000, Alive: 1 1 1, Missed: 0
+z_mean: 53, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 46, z_variance: 14
+Aggregated data: 39.715, Alive: 1 1 1, Missed: 0
+Missed message from node 4
+z_mean: 55, z_variance: 66
+z_mean: 0, z_variance: 19
+z_mean: 43, z_variance: 14
+Aggregated data: 77.653, Alive: 1 1 1, Missed: 1
+Missed message from node 3
+z_mean: 55, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 43, z_variance: 14
+Aggregated data: 26.754, Alive: 1 1 1, Missed: 1
+z_mean: 54, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 44, z_variance: 14
+Aggregated data: 29.353, Alive: 1 1 1, Missed: 0
+z_mean: 52, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 47, z_variance: 14
+Aggregated data: 34.609, Alive: 1 1 1, Missed: 0
+z_mean: 49, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 50, z_variance: 14
+Aggregated data: 22.743, Alive: 1 1 1, Missed: 0
+z_mean: 48, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 51, z_variance: 15
+Aggregated data: 30.915, Alive: 1 1 1, Missed: 0
+z_mean: 47, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 52, z_variance: 14
+Aggregated data: 39.524, Alive: 1 1 1, Missed: 0
+z_mean: 44, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 55, z_variance: 14
+Aggregated data: 70.104, Alive: 1 1 1, Missed: 0
+z_mean: 41, z_variance: 66
+z_mean: 1, z_variance: 18
+z_mean: 57, z_variance: 14
+Aggregated data: 39.013, Alive: 1 1 1, Missed: 0
+z_mean: 42, z_variance: 66
+z_mean: 0, z_variance: 18
+z_mean: 56, z_variance: 14
+Aggregated data: 32.134, Alive: 1 1 1, Missed: 0

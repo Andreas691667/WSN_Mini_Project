@@ -14,7 +14,7 @@
 #define SAMPLE_MIN 0
 #define SAMPLE_MAX 100
 #define DELTA 10
-#define WINDOW_SIZE 100.0
+#define WINDOW_SIZE 100
 
 static struct simple_udp_connection udp_conn;
 uip_ipaddr_t server_ipaddr;
@@ -41,21 +41,23 @@ void initialize_distribution_param(int *min, int *max)
 }
 
 // update the distribution parameters every 100 samples
-void update_distribution(int sample, int *sample_num, double *running_mean, double *running_difference, double *mean, double *variance)
+void update_distribution(int sample, int *sample_num, double *sum, double *sum_squared, double *mean, double *variance, int *samples, int *window_full)
 {
-	*running_mean += (double)sample / WINDOW_SIZE;
-	// using the last mean to calculate the running mean difference
-	// potential problem: the mean is 0 in the first 100 samples
-	*running_difference += (abs(*mean - (double)sample) * abs(*mean - (double)sample)) / WINDOW_SIZE;
-
-	if (*sample_num == (int)WINDOW_SIZE)
-	{
-		*sample_num = 0;
-		*mean = *running_mean;
-		*variance = *running_difference;
-		*running_mean = 0.;
-		*running_difference = 0.;
+	samples[*sample_num] = sample;
+	int next_idx = *sample_num + 1 == WINDOW_SIZE ? 0 : *sample_num + 1;
+	*sum += sample - samples[next_idx];
+	*sum_squared += (sample * sample) - (samples[next_idx] * samples[next_idx]);
+	if (*window_full) {
+		*mean = *sum / WINDOW_SIZE;
+		*variance = (*sum_squared / WINDOW_SIZE) - (*mean * *mean);
+	} else {
+		*mean = *sum / (*sample_num + 1);
+		*variance = (*sum_squared / (*sample_num+1)) - (*mean * *mean);
 	}
+	if (*sample_num == WINDOW_SIZE - 1) {
+		*window_full = 1;
+	}
+	*sample_num = (*sample_num + 1) % WINDOW_SIZE;
 }
 
 PROCESS_THREAD(udp_client_process, ev, data)
@@ -64,10 +66,13 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 	static int min = -1, max = -1; // initialize to -1 signifying they need to be set
 	static int sample_num = 0;
+	static int samples[WINDOW_SIZE] = {0};
+	static int window_full = 0;
 	static double mean = 0.;
-	static double running_mean = 0.;
 	static double variance = 0.;
-	static double running_difference = 0.;
+	static double sum_samples;
+	static double sum_squared_samples = 0.;
+	static bool node_fucked = false;
 
 	PROCESS_BEGIN();
 
@@ -92,15 +97,23 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 	while (1)
 	{
-		// PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 		PROCESS_WAIT_EVENT();
 
 		// If button push, simulate malfunction
 		if (ev == sensors_event && data == &button_sensor)
 		{
-			printf("Button pushed\n");
-			min = 1000;
-			max = 2000;
+			if (node_fucked)
+			{
+				// set back to normal
+				min = -1, max = -1;
+				initialize_distribution_param(&min, &max);
+				node_fucked = false;
+			} else {
+				// simulate malfunction
+				min = 300;
+				max = 500;
+				node_fucked = true;
+			}
 		}
 
 		if (etimer_expired(&periodic_timer))
@@ -110,8 +123,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 			message.sample = generate_uniform(min, max);
 
 			// Update the distribution parameters
-			sample_num++;
-			update_distribution(message.sample, &sample_num, &running_mean, &running_difference, &mean, &variance);
+			update_distribution(message.sample, &sample_num, &sum_samples, &sum_squared_samples, &mean, &variance, samples, &window_full);
 
 			message.node_id = node_id;
 			message.mean = mean;

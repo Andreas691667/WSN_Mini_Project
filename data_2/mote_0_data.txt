@@ -1,0 +1,4928 @@
+z_mean: 63, z_variance: 62
+z_mean: 6, z_variance: 33
+z_mean: 30, z_variance: 4
+Aggregated data: 47.841
+z_mean: 63, z_variance: 62
+z_mean: 5, z_variance: 31
+z_mean: 30, z_variance: 5
+Aggregated data: 47.901
+z_mean: 63, z_variance: 62
+z_mean: 5, z_variance: 32
+z_mean: 31, z_variance: 4
+Aggregated data: 47.734
+z_mean: 62, z_variance: 61
+z_mean: 4, z_variance: 35
+z_mean: 32, z_variance: 3
+Aggregated data: 47.661
+z_mean: 63, z_variance: 60
+z_mean: 6, z_variance: 37
+z_mean: 30, z_variance: 2
+Aggregated data: 47.756
+z_mean: 59, z_variance: 61
+z_mean: 2, z_variance: 34
+z_mean: 37, z_variance: 3
+Aggregated data: 48.333
+z_mean: 60, z_variance: 61
+z_mean: 2, z_variance: 35
+z_mean: 36, z_variance: 3
+Aggregated data: 48.177
+z_mean: 59, z_variance: 61
+z_mean: 2, z_variance: 35
+z_mean: 37, z_variance: 3
+Aggregated data: 48.041
+z_mean: 62, z_variance: 63
+z_mean: 4, z_variance: 31
+z_mean: 33, z_variance: 5
+Aggregated data: 48.097
+z_mean: 51, z_variance: 62
+z_mean: 0, z_variance: 33
+z_mean: 48, z_variance: 4
+Aggregated data: 47.701
+z_mean: 54, z_variance: 60
+z_mean: 0, z_variance: 36
+z_mean: 44, z_variance: 3
+Aggregated data: 47.855
+z_mean: 57, z_variance: 62
+z_mean: 1, z_variance: 33
+z_mean: 41, z_variance: 4
+Aggregated data: 47.977
+z_mean: 60, z_variance: 63
+z_mean: 3, z_variance: 31
+z_mean: 36, z_variance: 5
+Aggregated data: 48.011
+z_mean: 60, z_variance: 61
+z_mean: 3, z_variance: 34
+z_mean: 36, z_variance: 3
+Aggregated data: 47.459
+z_mean: 60, z_variance: 63
+z_mean: 3, z_variance: 31
+z_mean: 35, z_variance: 5
+Aggregated data: 47.824
+z_mean: 49, z_variance: 63
+z_mean: 0, z_variance: 30
+z_mean: 50, z_variance: 5
+Aggregated data: 47.798
+z_mean: 35, z_variance: 63
+z_mean: 3, z_variance: 31
+z_mean: 60, z_variance: 5
+Aggregated data: 47.647
+z_mean: 40, z_variance: 61
+z_mean: 1, z_variance: 34
+z_mean: 58, z_variance: 3
+Aggregated data: 47.732
+z_mean: 65, z_variance: 59
+z_mean: 23, z_variance: 37
+z_mean: 10, z_variance: 2
+Aggregated data: 47.654
+z_mean: 40, z_variance: 61
+z_mean: 1, z_variance: 34
+z_mean: 57, z_variance: 4
+Aggregated data: 47.900
+z_mean: 53, z_variance: 65
+z_mean: 0, z_variance: 26
+z_mean: 45, z_variance: 8
+Aggregated data: 47.811
+z_mean: 56, z_variance: 66
+z_mean: 1, z_variance: 22
+z_mean: 42, z_variance: 11
+Aggregated data: 47.653
+z_mean: 66, z_variance: 65
+z_mean: 15, z_variance: 24
+z_mean: 17, z_variance: 9
+Aggregated data: 47.706
+z_mean: 65, z_variance: 65
+z_mean: 24, z_variance: 26
+z_mean: 10, z_variance: 8
+Aggregated data: 47.581
+z_mean: 65, z_variance: 63
+z_mean: 11, z_variance: 29
+z_mean: 22, z_variance: 6
+Aggregated data: 47.469
+z_mean: 66, z_variance: 64
+z_mean: 16, z_variance: 29
+z_mean: 16, z_variance: 6
+Aggregated data: 47.719
+z_mean: 65, z_variance: 63
+z_mean: 25, z_variance: 31
+z_mean: 8, z_variance: 5
+Aggregated data: 47.970
+z_mean: 56, z_variance: 62
+z_mean: 42, z_variance: 32
+z_mean: 0, z_variance: 4
+Aggregated data: 48.345
+z_mean: 64, z_variance: 62
+z_mean: 7, z_variance: 32
+z_mean: 28, z_variance: 5
+Aggregated data: 48.119
+z_mean: 55, z_variance: 62
+z_mean: 0, z_variance: 32
+z_mean: 44, z_variance: 4
+Aggregated data: 48.118
+z_mean: 57, z_variance: 61
+z_mean: 1, z_variance: 33
+z_mean: 40, z_variance: 4
+Aggregated data: 48.054
+z_mean: 61, z_variance: 59
+z_mean: 4, z_variance: 38
+z_mean: 34, z_variance: 2
+Aggregated data: 48.347
+z_mean: 60, z_variance: 62
+z_mean: 3, z_variance: 32
+z_mean: 36, z_variance: 4
+Aggregated data: 48.151
+z_mean: 62, z_variance: 60
+z_mean: 5, z_variance: 35
+z_mean: 32, z_variance: 3
+Aggregated data: 48.101
+z_mean: 65, z_variance: 60
+z_mean: 10, z_variance: 36
+z_mean: 23, z_variance: 3
+Aggregated data: 47.838
+z_mean: 64, z_variance: 63
+z_mean: 7, z_variance: 31
+z_mean: 27, z_variance: 5
+Aggregated data: 47.895
+z_mean: 62, z_variance: 64
+z_mean: 4, z_variance: 27
+z_mean: 33, z_variance: 7
+Aggregated data: 47.286
+z_mean: 62, z_variance: 64
+z_mean: 5, z_variance: 28
+z_mean: 31, z_variance: 7
+Aggregated data: 47.300
+z_mean: 60, z_variance: 64
+z_mean: 3, z_variance: 26
+z_mean: 35, z_variance: 8
+Aggregated data: 47.019
+z_mean: 64, z_variance: 65
+z_mean: 7, z_variance: 24
+z_mean: 27, z_variance: 9
+Aggregated data: 47.136
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 19
+z_mean: 18, z_variance: 13
+Aggregated data: 46.862
+z_mean: 65, z_variance: 66
+z_mean: 25, z_variance: 14
+z_mean: 9, z_variance: 18
+Aggregated data: 46.748
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 20
+z_mean: 16, z_variance: 12
+Aggregated data: 46.731
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 20
+z_mean: 16, z_variance: 12
+Aggregated data: 46.570
+z_mean: 51, z_variance: 66
+z_mean: 47, z_variance: 19
+z_mean: 0, z_variance: 13
+Aggregated data: 46.796
+z_mean: 60, z_variance: 66
+z_mean: 35, z_variance: 15
+z_mean: 3, z_variance: 17
+Aggregated data: 47.191
+z_mean: 49, z_variance: 66
+z_mean: 50, z_variance: 14
+z_mean: 0, z_variance: 18
+Aggregated data: 47.381
+z_mean: 65, z_variance: 66
+z_mean: 23, z_variance: 11
+z_mean: 11, z_variance: 22
+Aggregated data: 47.392
+z_mean: 65, z_variance: 64
+z_mean: 10, z_variance: 8
+z_mean: 24, z_variance: 26
+Aggregated data: 47.607
+z_mean: 66, z_variance: 63
+z_mean: 19, z_variance: 5
+z_mean: 13, z_variance: 30
+Aggregated data: 47.287
+z_mean: 61, z_variance: 65
+z_mean: 3, z_variance: 9
+z_mean: 35, z_variance: 24
+Aggregated data: 47.646
+z_mean: 51, z_variance: 65
+z_mean: 0, z_variance: 9
+z_mean: 48, z_variance: 25
+Aggregated data: 47.625
+z_mean: 61, z_variance: 65
+z_mean: 3, z_variance: 11
+z_mean: 34, z_variance: 23
+Aggregated data: 47.854
+z_mean: 66, z_variance: 65
+z_mean: 17, z_variance: 10
+z_mean: 15, z_variance: 23
+Aggregated data: 47.537
+z_mean: 53, z_variance: 65
+z_mean: 46, z_variance: 9
+z_mean: 0, z_variance: 24
+Aggregated data: 47.116
+z_mean: 33, z_variance: 66
+z_mean: 61, z_variance: 18
+z_mean: 4, z_variance: 14
+Aggregated data: 46.868
+z_mean: 56, z_variance: 66
+z_mean: 42, z_variance: 21
+z_mean: 1, z_variance: 12
+Aggregated data: 47.080
+z_mean: 58, z_variance: 65
+z_mean: 40, z_variance: 23
+z_mean: 1, z_variance: 10
+Aggregated data: 47.002
+z_mean: 59, z_variance: 64
+z_mean: 38, z_variance: 27
+z_mean: 2, z_variance: 7
+Aggregated data: 46.606
+z_mean: 65, z_variance: 64
+z_mean: 25, z_variance: 27
+z_mean: 8, z_variance: 7
+Aggregated data: 46.591
+z_mean: 65, z_variance: 61
+z_mean: 23, z_variance: 34
+z_mean: 10, z_variance: 3
+Aggregated data: 46.952
+z_mean: 66, z_variance: 58
+z_mean: 18, z_variance: 39
+z_mean: 14, z_variance: 1
+Aggregated data: 46.786
+z_mean: 66, z_variance: 59
+z_mean: 13, z_variance: 38
+z_mean: 19, z_variance: 2
+Aggregated data: 46.903
+z_mean: 64, z_variance: 55
+z_mean: 7, z_variance: 43
+z_mean: 27, z_variance: 0
+Aggregated data: 47.126
+z_mean: 64, z_variance: 55
+z_mean: 7, z_variance: 43
+z_mean: 27, z_variance: 0
+Aggregated data: 47.313
+z_mean: 64, z_variance: 56
+z_mean: 7, z_variance: 42
+z_mean: 28, z_variance: 0
+Aggregated data: 47.404
+z_mean: 60, z_variance: 60
+z_mean: 3, z_variance: 36
+z_mean: 36, z_variance: 2
+Aggregated data: 47.318
+z_mean: 56, z_variance: 61
+z_mean: 0, z_variance: 34
+z_mean: 43, z_variance: 3
+Aggregated data: 47.366
+z_mean: 39, z_variance: 59
+z_mean: 1, z_variance: 37
+z_mean: 58, z_variance: 2
+Aggregated data: 47.382
+z_mean: 27, z_variance: 57
+z_mean: 7, z_variance: 40
+z_mean: 64, z_variance: 1
+Aggregated data: 47.683
+z_mean: 38, z_variance: 56
+z_mean: 2, z_variance: 42
+z_mean: 59, z_variance: 1
+Aggregated data: 47.389
+z_mean: 55, z_variance: 56
+z_mean: 0, z_variance: 42
+z_mean: 44, z_variance: 0
+Aggregated data: 47.342
+z_mean: 52, z_variance: 58
+z_mean: 0, z_variance: 40
+z_mean: 47, z_variance: 1
+Aggregated data: 47.414
+z_mean: 46, z_variance: 56
+z_mean: 0, z_variance: 41
+z_mean: 52, z_variance: 1
+Aggregated data: 47.588
+z_mean: 53, z_variance: 55
+z_mean: 0, z_variance: 43
+z_mean: 46, z_variance: 0
+Aggregated data: 47.580
+z_mean: 55, z_variance: 56
+z_mean: 0, z_variance: 43
+z_mean: 43, z_variance: 0
+Aggregated data: 47.524
+z_mean: 49, z_variance: 58
+z_mean: 0, z_variance: 38
+z_mean: 50, z_variance: 2
+Aggregated data: 47.699
+z_mean: 45, z_variance: 56
+z_mean: 0, z_variance: 42
+z_mean: 53, z_variance: 1
+Aggregated data: 47.936
+z_mean: 47, z_variance: 56
+z_mean: 0, z_variance: 42
+z_mean: 52, z_variance: 1
+Aggregated data: 48.044
+z_mean: 31, z_variance: 57
+z_mean: 5, z_variance: 41
+z_mean: 63, z_variance: 1
+Aggregated data: 48.079
+z_mean: 37, z_variance: 58
+z_mean: 2, z_variance: 40
+z_mean: 59, z_variance: 1
+Aggregated data: 48.072
+z_mean: 30, z_variance: 58
+z_mean: 5, z_variance: 40
+z_mean: 63, z_variance: 1
+Aggregated data: 48.144
+z_mean: 29, z_variance: 56
+z_mean: 6, z_variance: 42
+z_mean: 63, z_variance: 0
+Aggregated data: 47.902
+z_mean: 53, z_variance: 57
+z_mean: 0, z_variance: 41
+z_mean: 45, z_variance: 1
+Aggregated data: 47.885
+z_mean: 57, z_variance: 57
+z_mean: 1, z_variance: 40
+z_mean: 40, z_variance: 1
+Aggregated data: 47.800
+z_mean: 64, z_variance: 58
+z_mean: 7, z_variance: 39
+z_mean: 28, z_variance: 1
+Aggregated data: 48.186
+z_mean: 58, z_variance: 59
+z_mean: 1, z_variance: 37
+z_mean: 40, z_variance: 2
+Aggregated data: 48.501
+z_mean: 61, z_variance: 60
+z_mean: 3, z_variance: 36
+z_mean: 35, z_variance: 2
+Aggregated data: 48.415
+z_mean: 61, z_variance: 61
+z_mean: 4, z_variance: 35
+z_mean: 34, z_variance: 3
+Aggregated data: 48.548
+z_mean: 64, z_variance: 58
+z_mean: 8, z_variance: 39
+z_mean: 27, z_variance: 1
+Aggregated data: 48.636
+z_mean: 65, z_variance: 58
+z_mean: 10, z_variance: 39
+z_mean: 23, z_variance: 1
+Aggregated data: 48.974
+z_mean: 66, z_variance: 55
+z_mean: 19, z_variance: 43
+z_mean: 14, z_variance: 0
+Aggregated data: 48.744
+z_mean: 66, z_variance: 55
+z_mean: 15, z_variance: 43
+z_mean: 18, z_variance: 0
+Aggregated data: 48.703
+z_mean: 64, z_variance: 56
+z_mean: 7, z_variance: 42
+z_mean: 27, z_variance: 0
+Aggregated data: 48.781
+z_mean: 62, z_variance: 53
+z_mean: 5, z_variance: 45
+z_mean: 31, z_variance: 0
+Aggregated data: 48.519
+z_mean: 59, z_variance: 52
+z_mean: 2, z_variance: 47
+z_mean: 37, z_variance: 0
+Aggregated data: 48.232
+z_mean: 50, z_variance: 50
+z_mean: 0, z_variance: 49
+z_mean: 49, z_variance: 0
+Aggregated data: 48.162
+z_mean: 57, z_variance: 46
+z_mean: 1, z_variance: 52
+z_mean: 41, z_variance: 0
+Aggregated data: 48.279
+z_mean: 65, z_variance: 46
+z_mean: 10, z_variance: 53
+z_mean: 23, z_variance: 0
+Aggregated data: 48.215
+z_mean: 60, z_variance: 46
+z_mean: 2, z_variance: 53
+z_mean: 36, z_variance: 0
+Aggregated data: 48.426
+z_mean: 62, z_variance: 48
+z_mean: 4, z_variance: 51
+z_mean: 33, z_variance: 0
+Aggregated data: 48.620
+z_mean: 62, z_variance: 48
+z_mean: 5, z_variance: 51
+z_mean: 32, z_variance: 0
+Aggregated data: 48.599
+z_mean: 58, z_variance: 47
+z_mean: 1, z_variance: 52
+z_mean: 40, z_variance: 0
+Aggregated data: 48.851
+z_mean: 54, z_variance: 50
+z_mean: 0, z_variance: 49
+z_mean: 44, z_variance: 0
+Aggregated data: 48.712
+z_mean: 43, z_variance: 51
+z_mean: 0, z_variance: 48
+z_mean: 55, z_variance: 0
+Aggregated data: 48.681
+z_mean: 39, z_variance: 49
+z_mean: 1, z_variance: 50
+z_mean: 58, z_variance: 0
+Aggregated data: 48.683
+z_mean: 37, z_variance: 49
+z_mean: 2, z_variance: 50
+z_mean: 59, z_variance: 0
+Aggregated data: 48.698
+z_mean: 42, z_variance: 46
+z_mean: 1, z_variance: 53
+z_mean: 56, z_variance: 0
+Aggregated data: 48.539
+z_mean: 49, z_variance: 46
+z_mean: 0, z_variance: 53
+z_mean: 50, z_variance: 0
+Aggregated data: 48.960
+z_mean: 33, z_variance: 45
+z_mean: 4, z_variance: 54
+z_mean: 62, z_variance: 0
+Aggregated data: 48.874
+z_mean: 34, z_variance: 45
+z_mean: 3, z_variance: 54
+z_mean: 61, z_variance: 0
+Aggregated data: 48.837
+z_mean: 25, z_variance: 48
+z_mean: 9, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 48.849
+z_mean: 26, z_variance: 50
+z_mean: 8, z_variance: 49
+z_mean: 64, z_variance: 0
+Aggregated data: 48.760
+z_mean: 35, z_variance: 49
+z_mean: 3, z_variance: 50
+z_mean: 61, z_variance: 0
+Aggregated data: 48.731
+z_mean: 36, z_variance: 46
+z_mean: 3, z_variance: 52
+z_mean: 60, z_variance: 0
+Aggregated data: 48.893
+z_mean: 39, z_variance: 46
+z_mean: 2, z_variance: 52
+z_mean: 58, z_variance: 0
+Aggregated data: 49.071
+z_mean: 48, z_variance: 46
+z_mean: 0, z_variance: 53
+z_mean: 51, z_variance: 0
+Aggregated data: 48.835
+z_mean: 35, z_variance: 44
+z_mean: 3, z_variance: 54
+z_mean: 61, z_variance: 0
+Aggregated data: 48.977
+z_mean: 45, z_variance: 42
+z_mean: 0, z_variance: 56
+z_mean: 54, z_variance: 0
+Aggregated data: 48.895
+z_mean: 40, z_variance: 41
+z_mean: 1, z_variance: 57
+z_mean: 57, z_variance: 1
+Aggregated data: 48.879
+z_mean: 37, z_variance: 40
+z_mean: 2, z_variance: 57
+z_mean: 59, z_variance: 1
+Aggregated data: 48.892
+z_mean: 30, z_variance: 42
+z_mean: 5, z_variance: 56
+z_mean: 63, z_variance: 0
+Aggregated data: 48.445
+z_mean: 21, z_variance: 42
+z_mean: 11, z_variance: 56
+z_mean: 66, z_variance: 1
+Aggregated data: 48.579
+z_mean: 22, z_variance: 45
+z_mean: 11, z_variance: 54
+z_mean: 65, z_variance: 0
+Aggregated data: 48.350
+z_mean: 21, z_variance: 47
+z_mean: 12, z_variance: 52
+z_mean: 66, z_variance: 0
+Aggregated data: 48.377
+z_mean: 22, z_variance: 48
+z_mean: 11, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 48.250
+z_mean: 25, z_variance: 47
+z_mean: 9, z_variance: 52
+z_mean: 65, z_variance: 0
+Aggregated data: 47.918
+z_mean: 26, z_variance: 43
+z_mean: 8, z_variance: 55
+z_mean: 65, z_variance: 0
+Aggregated data: 48.210
+z_mean: 25, z_variance: 45
+z_mean: 9, z_variance: 54
+z_mean: 65, z_variance: 0
+Aggregated data: 48.306
+z_mean: 28, z_variance: 46
+z_mean: 7, z_variance: 52
+z_mean: 64, z_variance: 0
+Aggregated data: 48.464
+z_mean: 37, z_variance: 47
+z_mean: 2, z_variance: 52
+z_mean: 59, z_variance: 0
+Aggregated data: 48.200
+z_mean: 42, z_variance: 44
+z_mean: 0, z_variance: 55
+z_mean: 56, z_variance: 0
+Aggregated data: 48.146
+z_mean: 29, z_variance: 46
+z_mean: 6, z_variance: 52
+z_mean: 63, z_variance: 0
+Aggregated data: 48.114
+z_mean: 23, z_variance: 46
+z_mean: 10, z_variance: 53
+z_mean: 65, z_variance: 0
+Aggregated data: 48.002
+z_mean: 16, z_variance: 42
+z_mean: 17, z_variance: 56
+z_mean: 66, z_variance: 0
+Aggregated data: 48.228
+z_mean: 19, z_variance: 45
+z_mean: 13, z_variance: 53
+z_mean: 66, z_variance: 0
+Aggregated data: 48.093
+z_mean: 26, z_variance: 49
+z_mean: 8, z_variance: 50
+z_mean: 64, z_variance: 0
+Aggregated data: 47.869
+z_mean: 34, z_variance: 49
+z_mean: 3, z_variance: 50
+z_mean: 61, z_variance: 0
+Aggregated data: 47.579
+z_mean: 33, z_variance: 51
+z_mean: 4, z_variance: 48
+z_mean: 62, z_variance: 0
+Aggregated data: 47.781
+z_mean: 27, z_variance: 51
+z_mean: 7, z_variance: 48
+z_mean: 64, z_variance: 0
+Aggregated data: 47.624
+z_mean: 29, z_variance: 52
+z_mean: 6, z_variance: 47
+z_mean: 64, z_variance: 0
+Aggregated data: 47.757
+z_mean: 33, z_variance: 50
+z_mean: 4, z_variance: 49
+z_mean: 62, z_variance: 0
+Aggregated data: 47.242
+z_mean: 31, z_variance: 48
+z_mean: 5, z_variance: 51
+z_mean: 63, z_variance: 0
+Aggregated data: 47.003
+z_mean: 23, z_variance: 48
+z_mean: 10, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 47.096
+z_mean: 21, z_variance: 47
+z_mean: 12, z_variance: 52
+z_mean: 66, z_variance: 0
+Aggregated data: 46.913
+z_mean: 32, z_variance: 44
+z_mean: 4, z_variance: 55
+z_mean: 62, z_variance: 0
+Aggregated data: 46.778
+z_mean: 24, z_variance: 46
+z_mean: 9, z_variance: 53
+z_mean: 65, z_variance: 0
+Aggregated data: 46.575
+z_mean: 28, z_variance: 44
+z_mean: 7, z_variance: 54
+z_mean: 64, z_variance: 0
+Aggregated data: 46.892
+z_mean: 45, z_variance: 43
+z_mean: 0, z_variance: 55
+z_mean: 54, z_variance: 0
+Aggregated data: 46.885
+z_mean: 43, z_variance: 41
+z_mean: 0, z_variance: 57
+z_mean: 55, z_variance: 1
+Aggregated data: 46.919
+z_mean: 44, z_variance: 39
+z_mean: 0, z_variance: 58
+z_mean: 54, z_variance: 1
+Aggregated data: 46.782
+z_mean: 43, z_variance: 41
+z_mean: 0, z_variance: 56
+z_mean: 55, z_variance: 1
+Aggregated data: 46.844
+z_mean: 42, z_variance: 40
+z_mean: 0, z_variance: 57
+z_mean: 56, z_variance: 1
+Aggregated data: 46.644
+z_mean: 40, z_variance: 42
+z_mean: 1, z_variance: 56
+z_mean: 57, z_variance: 0
+Aggregated data: 46.503
+z_mean: 45, z_variance: 45
+z_mean: 0, z_variance: 53
+z_mean: 54, z_variance: 0
+Aggregated data: 46.919
+z_mean: 39, z_variance: 50
+z_mean: 1, z_variance: 49
+z_mean: 58, z_variance: 0
+Aggregated data: 47.127
+z_mean: 37, z_variance: 50
+z_mean: 2, z_variance: 49
+z_mean: 59, z_variance: 0
+Aggregated data: 47.211
+z_mean: 29, z_variance: 53
+z_mean: 6, z_variance: 46
+z_mean: 63, z_variance: 0
+Aggregated data: 47.223
+z_mean: 21, z_variance: 53
+z_mean: 12, z_variance: 46
+z_mean: 66, z_variance: 0
+Aggregated data: 47.229
+z_mean: 22, z_variance: 52
+z_mean: 11, z_variance: 47
+z_mean: 65, z_variance: 0
+Aggregated data: 47.297
+z_mean: 31, z_variance: 52
+z_mean: 5, z_variance: 47
+z_mean: 63, z_variance: 0
+Aggregated data: 46.984
+z_mean: 21, z_variance: 49
+z_mean: 12, z_variance: 50
+z_mean: 66, z_variance: 0
+Aggregated data: 47.160
+z_mean: 18, z_variance: 48
+z_mean: 14, z_variance: 51
+z_mean: 66, z_variance: 0
+Aggregated data: 47.164
+z_mean: 19, z_variance: 48
+z_mean: 14, z_variance: 51
+z_mean: 66, z_variance: 0
+Aggregated data: 46.878
+z_mean: 17, z_variance: 47
+z_mean: 16, z_variance: 51
+z_mean: 66, z_variance: 0
+Aggregated data: 46.784
+z_mean: 10, z_variance: 47
+z_mean: 23, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 46.832
+z_mean: 10, z_variance: 47
+z_mean: 23, z_variance: 52
+z_mean: 65, z_variance: 0
+Aggregated data: 46.540
+z_mean: 14, z_variance: 49
+z_mean: 18, z_variance: 50
+z_mean: 66, z_variance: 0
+Aggregated data: 46.375
+z_mean: 16, z_variance: 52
+z_mean: 16, z_variance: 47
+z_mean: 66, z_variance: 0
+Aggregated data: 46.428
+z_mean: 17, z_variance: 52
+z_mean: 15, z_variance: 46
+z_mean: 66, z_variance: 0
+Aggregated data: 46.320
+z_mean: 13, z_variance: 56
+z_mean: 20, z_variance: 42
+z_mean: 66, z_variance: 0
+Aggregated data: 46.563
+z_mean: 18, z_variance: 56
+z_mean: 14, z_variance: 43
+z_mean: 66, z_variance: 0
+Aggregated data: 46.812
+z_mean: 20, z_variance: 57
+z_mean: 13, z_variance: 40
+z_mean: 66, z_variance: 1
+Aggregated data: 47.072
+z_mean: 28, z_variance: 55
+z_mean: 7, z_variance: 43
+z_mean: 64, z_variance: 0
+Aggregated data: 46.737
+z_mean: 19, z_variance: 56
+z_mean: 13, z_variance: 42
+z_mean: 66, z_variance: 0
+Aggregated data: 46.832
+z_mean: 15, z_variance: 56
+z_mean: 17, z_variance: 41
+z_mean: 66, z_variance: 1
+Aggregated data: 46.432
+z_mean: 17, z_variance: 54
+z_mean: 16, z_variance: 44
+z_mean: 66, z_variance: 0
+Aggregated data: 46.051
+z_mean: 14, z_variance: 52
+z_mean: 19, z_variance: 47
+z_mean: 66, z_variance: 0
+Aggregated data: 45.965
+z_mean: 14, z_variance: 54
+z_mean: 19, z_variance: 44
+z_mean: 66, z_variance: 0
+Aggregated data: 46.210
+z_mean: 13, z_variance: 53
+z_mean: 20, z_variance: 46
+z_mean: 66, z_variance: 0
+Aggregated data: 46.308
+z_mean: 7, z_variance: 51
+z_mean: 27, z_variance: 47
+z_mean: 64, z_variance: 0
+Aggregated data: 46.057
+z_mean: 15, z_variance: 50
+z_mean: 18, z_variance: 49
+z_mean: 66, z_variance: 0
+Aggregated data: 45.957
+z_mean: 12, z_variance: 50
+z_mean: 20, z_variance: 49
+z_mean: 66, z_variance: 0
+Aggregated data: 46.007
+z_mean: 9, z_variance: 50
+z_mean: 25, z_variance: 49
+z_mean: 65, z_variance: 0
+Aggregated data: 46.010
+z_mean: 12, z_variance: 50
+z_mean: 21, z_variance: 49
+z_mean: 66, z_variance: 0
+Aggregated data: 46.287
+z_mean: 12, z_variance: 49
+z_mean: 21, z_variance: 50
+z_mean: 66, z_variance: 0
+Aggregated data: 45.819
+z_mean: 11, z_variance: 48
+z_mean: 22, z_variance: 51
+z_mean: 66, z_variance: 0
+Aggregated data: 45.584
+z_mean: 8, z_variance: 48
+z_mean: 27, z_variance: 51
+z_mean: 64, z_variance: 0
+Aggregated data: 45.468
+z_mean: 8, z_variance: 47
+z_mean: 26, z_variance: 52
+z_mean: 65, z_variance: 0
+Aggregated data: 45.593
+z_mean: 9, z_variance: 45
+z_mean: 24, z_variance: 53
+z_mean: 65, z_variance: 0
+Aggregated data: 45.717
+z_mean: 3, z_variance: 47
+z_mean: 34, z_variance: 52
+z_mean: 61, z_variance: 0
+Aggregated data: 46.007
+z_mean: 6, z_variance: 47
+z_mean: 29, z_variance: 52
+z_mean: 63, z_variance: 0
+Aggregated data: 45.941
+z_mean: 1, z_variance: 49
+z_mean: 41, z_variance: 50
+z_mean: 57, z_variance: 0
+Aggregated data: 45.825
+z_mean: 0, z_variance: 49
+z_mean: 48, z_variance: 50
+z_mean: 51, z_variance: 0
+Aggregated data: 45.747
+z_mean: 0, z_variance: 51
+z_mean: 44, z_variance: 48
+z_mean: 55, z_variance: 0
+Aggregated data: 45.597
+z_mean: 0, z_variance: 52
+z_mean: 52, z_variance: 47
+z_mean: 47, z_variance: 0
+Aggregated data: 45.497
+z_mean: 0, z_variance: 51
+z_mean: 43, z_variance: 48
+z_mean: 55, z_variance: 0
+Aggregated data: 45.787
+z_mean: 4, z_variance: 50
+z_mean: 33, z_variance: 49
+z_mean: 62, z_variance: 0
+Aggregated data: 45.799
+z_mean: 6, z_variance: 50
+z_mean: 29, z_variance: 49
+z_mean: 63, z_variance: 0
+Aggregated data: 45.900
+z_mean: 6, z_variance: 50
+z_mean: 30, z_variance: 49
+z_mean: 63, z_variance: 0
+Aggregated data: 45.931
+z_mean: 13, z_variance: 51
+z_mean: 19, z_variance: 48
+z_mean: 66, z_variance: 0
+Aggregated data: 46.051
+z_mean: 31, z_variance: 52
+z_mean: 5, z_variance: 47
+z_mean: 63, z_variance: 0
+Aggregated data: 46.081
+z_mean: 26, z_variance: 51
+z_mean: 8, z_variance: 48
+z_mean: 65, z_variance: 0
+Aggregated data: 46.340
+z_mean: 35, z_variance: 53
+z_mean: 3, z_variance: 46
+z_mean: 61, z_variance: 0
+Aggregated data: 46.319
+z_mean: 39, z_variance: 54
+z_mean: 1, z_variance: 45
+z_mean: 58, z_variance: 0
+Aggregated data: 46.142
+z_mean: 31, z_variance: 55
+z_mean: 5, z_variance: 43
+z_mean: 63, z_variance: 0
+Aggregated data: 45.960
+z_mean: 58, z_variance: 55
+z_mean: 2, z_variance: 43
+z_mean: 39, z_variance: 0
+Aggregated data: 46.004
+z_mean: 55, z_variance: 54
+z_mean: 0, z_variance: 44
+z_mean: 43, z_variance: 0
+Aggregated data: 45.987
+z_mean: 66, z_variance: 55
+z_mean: 11, z_variance: 43
+z_mean: 22, z_variance: 0
+Aggregated data: 45.754
+z_mean: 65, z_variance: 56
+z_mean: 25, z_variance: 42
+z_mean: 9, z_variance: 1
+Aggregated data: 45.707
+z_mean: 60, z_variance: 53
+z_mean: 36, z_variance: 46
+z_mean: 2, z_variance: 0
+Aggregated data: 45.778
+z_mean: 55, z_variance: 52
+z_mean: 43, z_variance: 47
+z_mean: 0, z_variance: 0
+Aggregated data: 45.702
+z_mean: 49, z_variance: 53
+z_mean: 50, z_variance: 46
+z_mean: 0, z_variance: 0
+Aggregated data: 45.602
+z_mean: 48, z_variance: 55
+z_mean: 51, z_variance: 44
+z_mean: 0, z_variance: 0
+Aggregated data: 45.613
+z_mean: 46, z_variance: 53
+z_mean: 52, z_variance: 46
+z_mean: 0, z_variance: 0
+Aggregated data: 45.632
+z_mean: 57, z_variance: 53
+z_mean: 41, z_variance: 46
+z_mean: 1, z_variance: 0
+Aggregated data: 45.847
+z_mean: 63, z_variance: 54
+z_mean: 30, z_variance: 45
+z_mean: 5, z_variance: 0
+Aggregated data: 45.976
+z_mean: 56, z_variance: 55
+z_mean: 42, z_variance: 43
+z_mean: 0, z_variance: 0
+Aggregated data: 45.961
+z_mean: 57, z_variance: 53
+z_mean: 41, z_variance: 45
+z_mean: 1, z_variance: 0
+Aggregated data: 46.088
+z_mean: 59, z_variance: 52
+z_mean: 38, z_variance: 47
+z_mean: 2, z_variance: 0
+Aggregated data: 46.075
+z_mean: 46, z_variance: 52
+z_mean: 52, z_variance: 47
+z_mean: 0, z_variance: 0
+Aggregated data: 46.247
+z_mean: 36, z_variance: 46
+z_mean: 60, z_variance: 52
+z_mean: 3, z_variance: 0
+Aggregated data: 46.505
+z_mean: 39, z_variance: 46
+z_mean: 58, z_variance: 53
+z_mean: 1, z_variance: 0
+Aggregated data: 46.237
+z_mean: 28, z_variance: 44
+z_mean: 64, z_variance: 54
+z_mean: 7, z_variance: 0
+Aggregated data: 46.341
+z_mean: 17, z_variance: 46
+z_mean: 66, z_variance: 53
+z_mean: 15, z_variance: 0
+Aggregated data: 46.446
+z_mean: 20, z_variance: 51
+z_mean: 66, z_variance: 48
+z_mean: 13, z_variance: 0
+Aggregated data: 46.294
+z_mean: 23, z_variance: 49
+z_mean: 65, z_variance: 50
+z_mean: 10, z_variance: 0
+Aggregated data: 46.321
+z_mean: 22, z_variance: 52
+z_mean: 65, z_variance: 47
+z_mean: 11, z_variance: 0
+Aggregated data: 46.196
+z_mean: 23, z_variance: 54
+z_mean: 65, z_variance: 45
+z_mean: 10, z_variance: 0
+Aggregated data: 45.912
+z_mean: 21, z_variance: 54
+z_mean: 66, z_variance: 45
+z_mean: 11, z_variance: 0
+Aggregated data: 45.864
+z_mean: 36, z_variance: 52
+z_mean: 60, z_variance: 47
+z_mean: 2, z_variance: 0
+Aggregated data: 46.217
+z_mean: 41, z_variance: 50
+z_mean: 57, z_variance: 49
+z_mean: 1, z_variance: 0
+Aggregated data: 46.490
+z_mean: 40, z_variance: 52
+z_mean: 58, z_variance: 47
+z_mean: 1, z_variance: 0
+Aggregated data: 46.466
+z_mean: 34, z_variance: 47
+z_mean: 61, z_variance: 52
+z_mean: 3, z_variance: 0
+Aggregated data: 46.545
+z_mean: 36, z_variance: 47
+z_mean: 60, z_variance: 52
+z_mean: 3, z_variance: 0
+Aggregated data: 46.547
+z_mean: 36, z_variance: 50
+z_mean: 60, z_variance: 49
+z_mean: 2, z_variance: 0
+Aggregated data: 46.578
+z_mean: 40, z_variance: 50
+z_mean: 57, z_variance: 49
+z_mean: 1, z_variance: 0
+Aggregated data: 46.798
+z_mean: 49, z_variance: 49
+z_mean: 50, z_variance: 50
+z_mean: 0, z_variance: 0
+Aggregated data: 46.397
+z_mean: 51, z_variance: 51
+z_mean: 48, z_variance: 48
+z_mean: 0, z_variance: 0
+Aggregated data: 46.617
+z_mean: 52, z_variance: 47
+z_mean: 46, z_variance: 52
+z_mean: 0, z_variance: 0
+Aggregated data: 46.528
+z_mean: 55, z_variance: 51
+z_mean: 43, z_variance: 48
+z_mean: 0, z_variance: 0
+Aggregated data: 46.423
+z_mean: 56, z_variance: 52
+z_mean: 41, z_variance: 47
+z_mean: 1, z_variance: 0
+Aggregated data: 46.700
+z_mean: 58, z_variance: 51
+z_mean: 39, z_variance: 48
+z_mean: 1, z_variance: 0
+Aggregated data: 46.555
+z_mean: 55, z_variance: 51
+z_mean: 43, z_variance: 48
+z_mean: 0, z_variance: 0
+Aggregated data: 46.157
+z_mean: 56, z_variance: 48
+z_mean: 42, z_variance: 51
+z_mean: 0, z_variance: 0
+Aggregated data: 46.152
+z_mean: 55, z_variance: 46
+z_mean: 43, z_variance: 53
+z_mean: 0, z_variance: 0
+Aggregated data: 46.245
+z_mean: 55, z_variance: 48
+z_mean: 44, z_variance: 51
+z_mean: 0, z_variance: 0
+Aggregated data: 45.926
+z_mean: 55, z_variance: 46
+z_mean: 44, z_variance: 53
+z_mean: 0, z_variance: 0
+Aggregated data: 45.924
+z_mean: 54, z_variance: 47
+z_mean: 45, z_variance: 52
+z_mean: 0, z_variance: 0
+Aggregated data: 45.680
+z_mean: 51, z_variance: 51
+z_mean: 47, z_variance: 48
+z_mean: 0, z_variance: 0
+Aggregated data: 45.792
+z_mean: 46, z_variance: 46
+z_mean: 53, z_variance: 52
+z_mean: 0, z_variance: 0
+Aggregated data: 45.925
+z_mean: 42, z_variance: 49
+z_mean: 56, z_variance: 50
+z_mean: 0, z_variance: 0
+Aggregated data: 46.305
+z_mean: 44, z_variance: 50
+z_mean: 55, z_variance: 49
+z_mean: 0, z_variance: 0
+Aggregated data: 46.445
+z_mean: 42, z_variance: 44
+z_mean: 56, z_variance: 55
+z_mean: 0, z_variance: 0
+Aggregated data: 46.688
+z_mean: 46, z_variance: 39
+z_mean: 52, z_variance: 58
+z_mean: 0, z_variance: 1
+Aggregated data: 46.625
+z_mean: 45, z_variance: 38
+z_mean: 53, z_variance: 59
+z_mean: 0, z_variance: 2
+Aggregated data: 46.525
+z_mean: 48, z_variance: 41
+z_mean: 51, z_variance: 57
+z_mean: 0, z_variance: 1
+Aggregated data: 46.192
+z_mean: 43, z_variance: 44
+z_mean: 55, z_variance: 54
+z_mean: 0, z_variance: 0
+Aggregated data: 45.893
+z_mean: 41, z_variance: 44
+z_mean: 57, z_variance: 54
+z_mean: 1, z_variance: 0
+Aggregated data: 45.947
+z_mean: 42, z_variance: 47
+z_mean: 56, z_variance: 52
+z_mean: 1, z_variance: 0
+Aggregated data: 46.223
+z_mean: 44, z_variance: 51
+z_mean: 54, z_variance: 48
+z_mean: 0, z_variance: 0
+Aggregated data: 46.228
+z_mean: 41, z_variance: 59
+z_mean: 57, z_variance: 38
+z_mean: 1, z_variance: 2
+Aggregated data: 46.340
+z_mean: 39, z_variance: 58
+z_mean: 58, z_variance: 39
+z_mean: 1, z_variance: 1
+Aggregated data: 46.473
+z_mean: 39, z_variance: 57
+z_mean: 58, z_variance: 40
+z_mean: 1, z_variance: 1
+Aggregated data: 46.483
+z_mean: 38, z_variance: 55
+z_mean: 59, z_variance: 43
+z_mean: 2, z_variance: 0
+Aggregated data: 46.669
+z_mean: 40, z_variance: 57
+z_mean: 57, z_variance: 41
+z_mean: 1, z_variance: 1
+Aggregated data: 46.809
+z_mean: 40, z_variance: 56
+z_mean: 57, z_variance: 42
+z_mean: 1, z_variance: 1
+Aggregated data: 46.550
+z_mean: 38, z_variance: 50
+z_mean: 59, z_variance: 49
+z_mean: 2, z_variance: 0
+Aggregated data: 46.844
+z_mean: 39, z_variance: 55
+z_mean: 58, z_variance: 44
+z_mean: 1, z_variance: 0
+Aggregated data: 46.421
+z_mean: 40, z_variance: 52
+z_mean: 58, z_variance: 47
+z_mean: 1, z_variance: 0
+Aggregated data: 46.487
+z_mean: 41, z_variance: 49
+z_mean: 57, z_variance: 50
+z_mean: 1, z_variance: 0
+Aggregated data: 46.393
+z_mean: 41, z_variance: 48
+z_mean: 57, z_variance: 51
+z_mean: 1, z_variance: 0
+Aggregated data: 46.440
+z_mean: 43, z_variance: 54
+z_mean: 55, z_variance: 44
+z_mean: 0, z_variance: 0
+Aggregated data: 46.396
+z_mean: 41, z_variance: 51
+z_mean: 57, z_variance: 48
+z_mean: 1, z_variance: 0
+Aggregated data: 46.410
+z_mean: 41, z_variance: 57
+z_mean: 57, z_variance: 41
+z_mean: 1, z_variance: 1
+Aggregated data: 46.308
+z_mean: 41, z_variance: 57
+z_mean: 56, z_variance: 41
+z_mean: 1, z_variance: 1
+Aggregated data: 46.364
+z_mean: 41, z_variance: 61
+z_mean: 57, z_variance: 34
+z_mean: 1, z_variance: 3
+Aggregated data: 46.173
+z_mean: 45, z_variance: 57
+z_mean: 54, z_variance: 40
+z_mean: 0, z_variance: 1
+Aggregated data: 46.230
+z_mean: 46, z_variance: 61
+z_mean: 53, z_variance: 33
+z_mean: 0, z_variance: 4
+Aggregated data: 45.894
+z_mean: 45, z_variance: 63
+z_mean: 54, z_variance: 30
+z_mean: 0, z_variance: 6
+Aggregated data: 45.779
+z_mean: 41, z_variance: 64
+z_mean: 56, z_variance: 28
+z_mean: 1, z_variance: 7
+Aggregated data: 45.936
+z_mean: 41, z_variance: 66
+z_mean: 56, z_variance: 21
+z_mean: 1, z_variance: 11
+Aggregated data: 45.850
+z_mean: 40, z_variance: 66
+z_mean: 57, z_variance: 15
+z_mean: 1, z_variance: 17
+Aggregated data: 45.934
+z_mean: 43, z_variance: 66
+z_mean: 55, z_variance: 19
+z_mean: 0, z_variance: 14
+Aggregated data: 45.863
+z_mean: 42, z_variance: 66
+z_mean: 56, z_variance: 20
+z_mean: 1, z_variance: 12
+Aggregated data: 46.176
+z_mean: 48, z_variance: 66
+z_mean: 51, z_variance: 21
+z_mean: 0, z_variance: 12
+Aggregated data: 46.652
+z_mean: 49, z_variance: 65
+z_mean: 50, z_variance: 23
+z_mean: 0, z_variance: 10
+Aggregated data: 46.932
+z_mean: 51, z_variance: 66
+z_mean: 48, z_variance: 20
+z_mean: 0, z_variance: 13
+Aggregated data: 46.776
+z_mean: 53, z_variance: 64
+z_mean: 46, z_variance: 26
+z_mean: 0, z_variance: 8
+Aggregated data: 46.650
+z_mean: 53, z_variance: 65
+z_mean: 45, z_variance: 26
+z_mean: 0, z_variance: 8
+Aggregated data: 46.913
+z_mean: 54, z_variance: 63
+z_mean: 44, z_variance: 29
+z_mean: 0, z_variance: 6
+Aggregated data: 46.984
+z_mean: 55, z_variance: 63
+z_mean: 43, z_variance: 30
+z_mean: 0, z_variance: 5
+Aggregated data: 47.189
+z_mean: 55, z_variance: 66
+z_mean: 43, z_variance: 22
+z_mean: 0, z_variance: 11
+Aggregated data: 47.243
+z_mean: 54, z_variance: 65
+z_mean: 45, z_variance: 23
+z_mean: 0, z_variance: 10
+Aggregated data: 47.111
+z_mean: 57, z_variance: 66
+z_mean: 41, z_variance: 22
+z_mean: 1, z_variance: 11
+Aggregated data: 47.550
+z_mean: 56, z_variance: 65
+z_mean: 42, z_variance: 24
+z_mean: 1, z_variance: 9
+Aggregated data: 47.449
+z_mean: 60, z_variance: 66
+z_mean: 35, z_variance: 16
+z_mean: 3, z_variance: 16
+Aggregated data: 47.558
+z_mean: 60, z_variance: 66
+z_mean: 36, z_variance: 15
+z_mean: 3, z_variance: 18
+Aggregated data: 47.488
+z_mean: 62, z_variance: 66
+z_mean: 32, z_variance: 12
+z_mean: 5, z_variance: 20
+Aggregated data: 47.254
+z_mean: 61, z_variance: 66
+z_mean: 34, z_variance: 12
+z_mean: 3, z_variance: 20
+Aggregated data: 47.742
+z_mean: 64, z_variance: 64
+z_mean: 27, z_variance: 8
+z_mean: 7, z_variance: 27
+Aggregated data: 47.608
+z_mean: 64, z_variance: 63
+z_mean: 29, z_variance: 6
+z_mean: 6, z_variance: 29
+Aggregated data: 47.342
+z_mean: 64, z_variance: 63
+z_mean: 27, z_variance: 5
+z_mean: 7, z_variance: 31
+Aggregated data: 47.135
+z_mean: 65, z_variance: 64
+z_mean: 24, z_variance: 7
+z_mean: 9, z_variance: 28
+Aggregated data: 47.115
+z_mean: 66, z_variance: 61
+z_mean: 21, z_variance: 3
+z_mean: 12, z_variance: 34
+Aggregated data: 47.023
+z_mean: 66, z_variance: 60
+z_mean: 18, z_variance: 3
+z_mean: 14, z_variance: 36
+Aggregated data: 47.119
+z_mean: 66, z_variance: 64
+z_mean: 19, z_variance: 6
+z_mean: 14, z_variance: 28
+Aggregated data: 47.090
+z_mean: 66, z_variance: 63
+z_mean: 19, z_variance: 5
+z_mean: 14, z_variance: 31
+Aggregated data: 46.900
+z_mean: 66, z_variance: 61
+z_mean: 17, z_variance: 4
+z_mean: 15, z_variance: 33
+Aggregated data: 46.911
+z_mean: 66, z_variance: 59
+z_mean: 16, z_variance: 2
+z_mean: 17, z_variance: 37
+Aggregated data: 46.988
+z_mean: 66, z_variance: 62
+z_mean: 17, z_variance: 4
+z_mean: 15, z_variance: 32
+Aggregated data: 46.944
+z_mean: 66, z_variance: 65
+z_mean: 15, z_variance: 9
+z_mean: 17, z_variance: 25
+Aggregated data: 47.154
+z_mean: 66, z_variance: 65
+z_mean: 16, z_variance: 8
+z_mean: 16, z_variance: 26
+Aggregated data: 47.071
+z_mean: 66, z_variance: 61
+z_mean: 16, z_variance: 3
+z_mean: 17, z_variance: 35
+Aggregated data: 47.475
+z_mean: 66, z_variance: 61
+z_mean: 16, z_variance: 4
+z_mean: 16, z_variance: 33
+Aggregated data: 47.824
+z_mean: 66, z_variance: 63
+z_mean: 17, z_variance: 6
+z_mean: 15, z_variance: 29
+Aggregated data: 47.792
+z_mean: 66, z_variance: 62
+z_mean: 19, z_variance: 4
+z_mean: 14, z_variance: 33
+Aggregated data: 47.751
+z_mean: 66, z_variance: 62
+z_mean: 15, z_variance: 5
+z_mean: 17, z_variance: 32
+Aggregated data: 47.932
+z_mean: 65, z_variance: 62
+z_mean: 10, z_variance: 5
+z_mean: 24, z_variance: 32
+Aggregated data: 48.011
+z_mean: 64, z_variance: 63
+z_mean: 7, z_variance: 5
+z_mean: 28, z_variance: 31
+Aggregated data: 47.895
+z_mean: 63, z_variance: 64
+z_mean: 5, z_variance: 7
+z_mean: 31, z_variance: 27
+Aggregated data: 48.073
+z_mean: 62, z_variance: 62
+z_mean: 4, z_variance: 4
+z_mean: 32, z_variance: 32
+Aggregated data: 48.147
+z_mean: 61, z_variance: 63
+z_mean: 4, z_variance: 5
+z_mean: 33, z_variance: 31
+Aggregated data: 48.318
+z_mean: 61, z_variance: 64
+z_mean: 3, z_variance: 7
+z_mean: 35, z_variance: 27
+Aggregated data: 48.185
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 14
+z_mean: 37, z_variance: 18
+Aggregated data: 48.014
+z_mean: 59, z_variance: 66
+z_mean: 2, z_variance: 18
+z_mean: 37, z_variance: 14
+Aggregated data: 48.075
+z_mean: 60, z_variance: 66
+z_mean: 2, z_variance: 19
+z_mean: 36, z_variance: 13
+Aggregated data: 48.029
+z_mean: 60, z_variance: 65
+z_mean: 3, z_variance: 25
+z_mean: 36, z_variance: 8
+Aggregated data: 48.037
+z_mean: 62, z_variance: 65
+z_mean: 4, z_variance: 25
+z_mean: 32, z_variance: 9
+Aggregated data: 47.535
+z_mean: 60, z_variance: 66
+z_mean: 3, z_variance: 22
+z_mean: 36, z_variance: 11
+Aggregated data: 47.696
+z_mean: 60, z_variance: 64
+z_mean: 2, z_variance: 27
+z_mean: 37, z_variance: 8
+Aggregated data: 47.895
+z_mean: 60, z_variance: 64
+z_mean: 2, z_variance: 27
+z_mean: 36, z_variance: 7
+Aggregated data: 47.821
+z_mean: 60, z_variance: 64
+z_mean: 2, z_variance: 28
+z_mean: 36, z_variance: 7
+Aggregated data: 47.702
+z_mean: 59, z_variance: 64
+z_mean: 2, z_variance: 28
+z_mean: 38, z_variance: 6
+Aggregated data: 48.182
+z_mean: 58, z_variance: 63
+z_mean: 2, z_variance: 30
+z_mean: 38, z_variance: 5
+Aggregated data: 48.072
+z_mean: 56, z_variance: 61
+z_mean: 0, z_variance: 35
+z_mean: 42, z_variance: 3
+Aggregated data: 47.678
+z_mean: 58, z_variance: 60
+z_mean: 1, z_variance: 36
+z_mean: 39, z_variance: 2
+Aggregated data: 47.401
+z_mean: 57, z_variance: 59
+z_mean: 1, z_variance: 37
+z_mean: 40, z_variance: 2
+Aggregated data: 47.299
+z_mean: 53, z_variance: 61
+z_mean: 0, z_variance: 34
+z_mean: 46, z_variance: 3
+Aggregated data: 47.578
+z_mean: 54, z_variance: 55
+z_mean: 0, z_variance: 43
+z_mean: 44, z_variance: 0
+Aggregated data: 47.775
+z_mean: 52, z_variance: 53
+z_mean: 0, z_variance: 46
+z_mean: 47, z_variance: 0
+Aggregated data: 47.901
+z_mean: 48, z_variance: 56
+z_mean: 0, z_variance: 42
+z_mean: 51, z_variance: 0
+Aggregated data: 47.804
+z_mean: 50, z_variance: 55
+z_mean: 0, z_variance: 44
+z_mean: 48, z_variance: 0
+Aggregated data: 47.580
+z_mean: 50, z_variance: 59
+z_mean: 0, z_variance: 37
+z_mean: 49, z_variance: 2
+Aggregated data: 47.644
+z_mean: 48, z_variance: 61
+z_mean: 0, z_variance: 35
+z_mean: 51, z_variance: 3
+Aggregated data: 47.794
+z_mean: 50, z_variance: 61
+z_mean: 0, z_variance: 35
+z_mean: 49, z_variance: 3
+Aggregated data: 48.087
+z_mean: 56, z_variance: 64
+z_mean: 1, z_variance: 28
+z_mean: 41, z_variance: 7
+Aggregated data: 48.157
+z_mean: 55, z_variance: 60
+z_mean: 0, z_variance: 35
+z_mean: 44, z_variance: 3
+Aggregated data: 47.772
+z_mean: 55, z_variance: 60
+z_mean: 0, z_variance: 36
+z_mean: 44, z_variance: 3
+Aggregated data: 47.861
+z_mean: 52, z_variance: 57
+z_mean: 0, z_variance: 41
+z_mean: 47, z_variance: 1
+Aggregated data: 47.396
+z_mean: 49, z_variance: 56
+z_mean: 0, z_variance: 42
+z_mean: 50, z_variance: 1
+Aggregated data: 47.717
+z_mean: 50, z_variance: 56
+z_mean: 0, z_variance: 43
+z_mean: 49, z_variance: 0
+Aggregated data: 47.395
+z_mean: 44, z_variance: 53
+z_mean: 0, z_variance: 46
+z_mean: 55, z_variance: 0
+Aggregated data: 47.226
+z_mean: 40, z_variance: 51
+z_mean: 1, z_variance: 48
+z_mean: 57, z_variance: 0
+Aggregated data: 46.841
+z_mean: 41, z_variance: 50
+z_mean: 1, z_variance: 49
+z_mean: 57, z_variance: 0
+Aggregated data: 47.324
+z_mean: 42, z_variance: 50
+z_mean: 1, z_variance: 49
+z_mean: 56, z_variance: 0
+Aggregated data: 47.474
+z_mean: 41, z_variance: 53
+z_mean: 1, z_variance: 45
+z_mean: 57, z_variance: 0
+Aggregated data: 47.955
+z_mean: 38, z_variance: 53
+z_mean: 2, z_variance: 45
+z_mean: 59, z_variance: 0
+Aggregated data: 48.077
+z_mean: 39, z_variance: 51
+z_mean: 1, z_variance: 48
+z_mean: 58, z_variance: 0
+Aggregated data: 47.999
+z_mean: 36, z_variance: 48
+z_mean: 3, z_variance: 51
+z_mean: 60, z_variance: 0
+Aggregated data: 47.555
+z_mean: 32, z_variance: 45
+z_mean: 5, z_variance: 54
+z_mean: 62, z_variance: 0
+Aggregated data: 47.232
+z_mean: 29, z_variance: 47
+z_mean: 6, z_variance: 52
+z_mean: 63, z_variance: 0
+Aggregated data: 47.432
+z_mean: 25, z_variance: 50
+z_mean: 9, z_variance: 49
+z_mean: 65, z_variance: 0
+Aggregated data: 47.252
+z_mean: 25, z_variance: 48
+z_mean: 9, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 47.476
+z_mean: 23, z_variance: 48
+z_mean: 10, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 47.174
+z_mean: 24, z_variance: 52
+z_mean: 9, z_variance: 47
+z_mean: 65, z_variance: 0
+Aggregated data: 47.029
+z_mean: 25, z_variance: 57
+z_mean: 8, z_variance: 40
+z_mean: 65, z_variance: 1
+Aggregated data: 47.526
+z_mean: 19, z_variance: 57
+z_mean: 13, z_variance: 40
+z_mean: 66, z_variance: 1
+Aggregated data: 47.084
+z_mean: 25, z_variance: 55
+z_mean: 9, z_variance: 44
+z_mean: 65, z_variance: 0
+Aggregated data: 46.935
+z_mean: 26, z_variance: 51
+z_mean: 8, z_variance: 48
+z_mean: 64, z_variance: 0
+Aggregated data: 46.773
+z_mean: 21, z_variance: 49
+z_mean: 12, z_variance: 50
+z_mean: 66, z_variance: 0
+Aggregated data: 46.816
+z_mean: 22, z_variance: 49
+z_mean: 11, z_variance: 50
+z_mean: 66, z_variance: 0
+Aggregated data: 46.764
+z_mean: 25, z_variance: 46
+z_mean: 9, z_variance: 53
+z_mean: 65, z_variance: 0
+Aggregated data: 46.926
+z_mean: 24, z_variance: 50
+z_mean: 10, z_variance: 49
+z_mean: 65, z_variance: 0
+Aggregated data: 47.338
+z_mean: 21, z_variance: 54
+z_mean: 11, z_variance: 44
+z_mean: 66, z_variance: 0
+Aggregated data: 47.590
+z_mean: 22, z_variance: 55
+z_mean: 11, z_variance: 43
+z_mean: 66, z_variance: 0
+Aggregated data: 47.653
+z_mean: 24, z_variance: 53
+z_mean: 10, z_variance: 46
+z_mean: 65, z_variance: 0
+Aggregated data: 47.664
+z_mean: 26, z_variance: 54
+z_mean: 8, z_variance: 44
+z_mean: 65, z_variance: 0
+Aggregated data: 47.609
+z_mean: 32, z_variance: 57
+z_mean: 4, z_variance: 41
+z_mean: 62, z_variance: 1
+Aggregated data: 47.636
+z_mean: 35, z_variance: 55
+z_mean: 3, z_variance: 43
+z_mean: 61, z_variance: 0
+Aggregated data: 47.377
+z_mean: 32, z_variance: 53
+z_mean: 4, z_variance: 46
+z_mean: 62, z_variance: 0
+Aggregated data: 47.511
+z_mean: 34, z_variance: 53
+z_mean: 3, z_variance: 46
+z_mean: 61, z_variance: 0
+Aggregated data: 47.639
+z_mean: 30, z_variance: 53
+z_mean: 6, z_variance: 46
+z_mean: 63, z_variance: 0
+Aggregated data: 47.507
+z_mean: 34, z_variance: 56
+z_mean: 3, z_variance: 41
+z_mean: 61, z_variance: 1
+Aggregated data: 47.390
+z_mean: 27, z_variance: 55
+z_mean: 7, z_variance: 43
+z_mean: 64, z_variance: 0
+Aggregated data: 47.249
+z_mean: 27, z_variance: 57
+z_mean: 7, z_variance: 41
+z_mean: 64, z_variance: 1
+Aggregated data: 47.131
+z_mean: 29, z_variance: 58
+z_mean: 6, z_variance: 39
+z_mean: 64, z_variance: 1
+Aggregated data: 46.877
+z_mean: 27, z_variance: 57
+z_mean: 7, z_variance: 41
+z_mean: 64, z_variance: 1
+Aggregated data: 46.743
+z_mean: 37, z_variance: 58
+z_mean: 2, z_variance: 40
+z_mean: 59, z_variance: 1
+Aggregated data: 46.588
+z_mean: 38, z_variance: 57
+z_mean: 2, z_variance: 41
+z_mean: 59, z_variance: 1
+Aggregated data: 46.546
+z_mean: 43, z_variance: 55
+z_mean: 0, z_variance: 44
+z_mean: 55, z_variance: 0
+Aggregated data: 46.365
+z_mean: 38, z_variance: 52
+z_mean: 2, z_variance: 46
+z_mean: 59, z_variance: 0
+Aggregated data: 46.217
+z_mean: 34, z_variance: 53
+z_mean: 3, z_variance: 46
+z_mean: 61, z_variance: 0
+Aggregated data: 46.124
+z_mean: 42, z_variance: 54
+z_mean: 1, z_variance: 45
+z_mean: 56, z_variance: 0
+Aggregated data: 45.993
+z_mean: 46, z_variance: 54
+z_mean: 0, z_variance: 44
+z_mean: 52, z_variance: 0
+Aggregated data: 46.273
+z_mean: 41, z_variance: 52
+z_mean: 1, z_variance: 47
+z_mean: 57, z_variance: 0
+Aggregated data: 46.341
+z_mean: 38, z_variance: 52
+z_mean: 2, z_variance: 47
+z_mean: 59, z_variance: 0
+Aggregated data: 46.061
+z_mean: 45, z_variance: 50
+z_mean: 0, z_variance: 49
+z_mean: 53, z_variance: 0
+Aggregated data: 46.571
+z_mean: 47, z_variance: 45
+z_mean: 0, z_variance: 53
+z_mean: 52, z_variance: 0
+Aggregated data: 46.254
+z_mean: 47, z_variance: 44
+z_mean: 0, z_variance: 54
+z_mean: 52, z_variance: 0
+Aggregated data: 46.228
+z_mean: 48, z_variance: 40
+z_mean: 0, z_variance: 57
+z_mean: 51, z_variance: 1
+Aggregated data: 46.414
+z_mean: 50, z_variance: 41
+z_mean: 0, z_variance: 57
+z_mean: 49, z_variance: 1
+Aggregated data: 46.124
+z_mean: 49, z_variance: 41
+z_mean: 0, z_variance: 56
+z_mean: 50, z_variance: 1
+Aggregated data: 46.528
+z_mean: 57, z_variance: 36
+z_mean: 1, z_variance: 60
+z_mean: 41, z_variance: 2
+Aggregated data: 46.518
+z_mean: 55, z_variance: 37
+z_mean: 0, z_variance: 59
+z_mean: 44, z_variance: 2
+Aggregated data: 46.973
+z_mean: 54, z_variance: 37
+z_mean: 0, z_variance: 59
+z_mean: 44, z_variance: 2
+Aggregated data: 46.781
+z_mean: 60, z_variance: 36
+z_mean: 2, z_variance: 60
+z_mean: 36, z_variance: 3
+Aggregated data: 46.719
+z_mean: 56, z_variance: 37
+z_mean: 0, z_variance: 59
+z_mean: 43, z_variance: 2
+Aggregated data: 46.483
+z_mean: 59, z_variance: 37
+z_mean: 2, z_variance: 60
+z_mean: 38, z_variance: 2
+Aggregated data: 46.582
+z_mean: 65, z_variance: 36
+z_mean: 11, z_variance: 60
+z_mean: 22, z_variance: 3
+Aggregated data: 46.541
+z_mean: 65, z_variance: 38
+z_mean: 10, z_variance: 59
+z_mean: 24, z_variance: 2
+Aggregated data: 46.698
+z_mean: 65, z_variance: 36
+z_mean: 9, z_variance: 60
+z_mean: 25, z_variance: 2
+Aggregated data: 46.727
+z_mean: 66, z_variance: 36
+z_mean: 11, z_variance: 60
+z_mean: 21, z_variance: 3
+Aggregated data: 46.596
+z_mean: 64, z_variance: 36
+z_mean: 7, z_variance: 60
+z_mean: 27, z_variance: 3
+Aggregated data: 46.359
+z_mean: 64, z_variance: 35
+z_mean: 8, z_variance: 60
+z_mean: 26, z_variance: 3
+Aggregated data: 46.168
+z_mean: 66, z_variance: 36
+z_mean: 12, z_variance: 60
+z_mean: 20, z_variance: 3
+Aggregated data: 45.860
+z_mean: 66, z_variance: 36
+z_mean: 12, z_variance: 60
+z_mean: 21, z_variance: 3
+Aggregated data: 45.514
+z_mean: 66, z_variance: 32
+z_mean: 12, z_variance: 62
+z_mean: 21, z_variance: 4
+Aggregated data: 45.676
+z_mean: 66, z_variance: 29
+z_mean: 13, z_variance: 63
+z_mean: 19, z_variance: 6
+Aggregated data: 45.925
+z_mean: 66, z_variance: 31
+z_mean: 14, z_variance: 62
+z_mean: 18, z_variance: 5
+Aggregated data: 45.578
+z_mean: 66, z_variance: 32
+z_mean: 15, z_variance: 62
+z_mean: 17, z_variance: 5
+Aggregated data: 45.557
+z_mean: 66, z_variance: 29
+z_mean: 14, z_variance: 63
+z_mean: 18, z_variance: 6
+Aggregated data: 45.776
+z_mean: 63, z_variance: 28
+z_mean: 6, z_variance: 64
+z_mean: 29, z_variance: 7
+Aggregated data: 45.961
+z_mean: 65, z_variance: 28
+z_mean: 8, z_variance: 64
+z_mean: 26, z_variance: 7
+Aggregated data: 46.142
+z_mean: 65, z_variance: 29
+z_mean: 10, z_variance: 64
+z_mean: 23, z_variance: 6
+Aggregated data: 46.044
+z_mean: 64, z_variance: 32
+z_mean: 7, z_variance: 62
+z_mean: 28, z_variance: 4
+Aggregated data: 46.053
+z_mean: 62, z_variance: 37
+z_mean: 4, z_variance: 60
+z_mean: 33, z_variance: 2
+Aggregated data: 46.276
+z_mean: 60, z_variance: 39
+z_mean: 2, z_variance: 58
+z_mean: 37, z_variance: 1
+Aggregated data: 46.779
+z_mean: 58, z_variance: 38
+z_mean: 2, z_variance: 59
+z_mean: 38, z_variance: 2
+Aggregated data: 46.183
+z_mean: 60, z_variance: 40
+z_mean: 3, z_variance: 57
+z_mean: 35, z_variance: 1
+Aggregated data: 45.898
+z_mean: 62, z_variance: 40
+z_mean: 5, z_variance: 57
+z_mean: 32, z_variance: 1
+Aggregated data: 45.956
+z_mean: 65, z_variance: 41
+z_mean: 8, z_variance: 56
+z_mean: 26, z_variance: 1
+Aggregated data: 45.727
+z_mean: 64, z_variance: 42
+z_mean: 7, z_variance: 56
+z_mean: 28, z_variance: 1
+Aggregated data: 45.836
+z_mean: 66, z_variance: 42
+z_mean: 15, z_variance: 56
+z_mean: 17, z_variance: 1
+Aggregated data: 45.707
+z_mean: 66, z_variance: 45
+z_mean: 16, z_variance: 53
+z_mean: 17, z_variance: 0
+Aggregated data: 45.636
+z_mean: 66, z_variance: 49
+z_mean: 20, z_variance: 50
+z_mean: 13, z_variance: 0
+Aggregated data: 45.948
+z_mean: 60, z_variance: 50
+z_mean: 35, z_variance: 49
+z_mean: 3, z_variance: 0
+Aggregated data: 46.266
+z_mean: 64, z_variance: 53
+z_mean: 28, z_variance: 45
+z_mean: 7, z_variance: 0
+Aggregated data: 46.135
+z_mean: 66, z_variance: 55
+z_mean: 20, z_variance: 43
+z_mean: 12, z_variance: 0
+Aggregated data: 46.255
+z_mean: 60, z_variance: 52
+z_mean: 35, z_variance: 47
+z_mean: 3, z_variance: 0
+Aggregated data: 46.286
+z_mean: 54, z_variance: 55
+z_mean: 44, z_variance: 43
+z_mean: 0, z_variance: 0
+Aggregated data: 46.275
+z_mean: 63, z_variance: 49
+z_mean: 30, z_variance: 50
+z_mean: 6, z_variance: 0
+Aggregated data: 46.358
+z_mean: 66, z_variance: 51
+z_mean: 17, z_variance: 48
+z_mean: 15, z_variance: 0
+Aggregated data: 46.610
+z_mean: 65, z_variance: 56
+z_mean: 10, z_variance: 42
+z_mean: 23, z_variance: 1
+Aggregated data: 46.393
+z_mean: 60, z_variance: 55
+z_mean: 3, z_variance: 44
+z_mean: 36, z_variance: 0
+Aggregated data: 46.453
+z_mean: 53, z_variance: 52
+z_mean: 0, z_variance: 47
+z_mean: 46, z_variance: 0
+Aggregated data: 46.168
+z_mean: 41, z_variance: 54
+z_mean: 1, z_variance: 44
+z_mean: 57, z_variance: 0
+Aggregated data: 46.480
+z_mean: 52, z_variance: 55
+z_mean: 0, z_variance: 43
+z_mean: 47, z_variance: 0
+Aggregated data: 46.394
+z_mean: 50, z_variance: 57
+z_mean: 0, z_variance: 40
+z_mean: 49, z_variance: 1
+Aggregated data: 46.463
+z_mean: 62, z_variance: 60
+z_mean: 4, z_variance: 36
+z_mean: 32, z_variance: 2
+Aggregated data: 46.314
+z_mean: 65, z_variance: 61
+z_mean: 9, z_variance: 35
+z_mean: 25, z_variance: 3
+Aggregated data: 46.493
+z_mean: 65, z_variance: 63
+z_mean: 10, z_variance: 29
+z_mean: 23, z_variance: 6
+Aggregated data: 46.564
+z_mean: 66, z_variance: 63
+z_mean: 20, z_variance: 30
+z_mean: 12, z_variance: 5
+Aggregated data: 46.440
+z_mean: 64, z_variance: 63
+z_mean: 8, z_variance: 31
+z_mean: 27, z_variance: 5
+Aggregated data: 46.831
+z_mean: 65, z_variance: 63
+z_mean: 10, z_variance: 31
+z_mean: 23, z_variance: 5
+Aggregated data: 46.694
+z_mean: 63, z_variance: 64
+z_mean: 5, z_variance: 28
+z_mean: 30, z_variance: 7
+Aggregated data: 46.445
+z_mean: 62, z_variance: 65
+z_mean: 5, z_variance: 25
+z_mean: 31, z_variance: 9
+Aggregated data: 46.282
+z_mean: 61, z_variance: 65
+z_mean: 3, z_variance: 25
+z_mean: 35, z_variance: 9
+Aggregated data: 46.332
+z_mean: 58, z_variance: 62
+z_mean: 1, z_variance: 32
+z_mean: 39, z_variance: 5
+Aggregated data: 46.457
+z_mean: 63, z_variance: 63
+z_mean: 5, z_variance: 29
+z_mean: 31, z_variance: 6
+Aggregated data: 46.580
+z_mean: 64, z_variance: 63
+z_mean: 7, z_variance: 29
+z_mean: 27, z_variance: 6
+Aggregated data: 46.503
+z_mean: 64, z_variance: 63
+z_mean: 7, z_variance: 29
+z_mean: 28, z_variance: 6
+Aggregated data: 46.553
+z_mean: 65, z_variance: 63
+z_mean: 10, z_variance: 31
+z_mean: 23, z_variance: 5
+Aggregated data: 46.459
+z_mean: 65, z_variance: 62
+z_mean: 8, z_variance: 33
+z_mean: 25, z_variance: 4
+Aggregated data: 46.822
+z_mean: 62, z_variance: 62
+z_mean: 5, z_variance: 31
+z_mean: 31, z_variance: 5
+Aggregated data: 46.620
+z_mean: 57, z_variance: 59
+z_mean: 1, z_variance: 37
+z_mean: 40, z_variance: 2
+Aggregated data: 46.893
+z_mean: 58, z_variance: 57
+z_mean: 1, z_variance: 40
+z_mean: 40, z_variance: 1
+Aggregated data: 47.148
+z_mean: 55, z_variance: 58
+z_mean: 0, z_variance: 39
+z_mean: 43, z_variance: 2
+Aggregated data: 47.006
+z_mean: 53, z_variance: 58
+z_mean: 0, z_variance: 39
+z_mean: 46, z_variance: 1
+Aggregated data: 46.917
+z_mean: 56, z_variance: 58
+z_mean: 0, z_variance: 39
+z_mean: 42, z_variance: 2
+Aggregated data: 47.030
+z_mean: 48, z_variance: 57
+z_mean: 0, z_variance: 40
+z_mean: 51, z_variance: 1
+Aggregated data: 47.284
+z_mean: 47, z_variance: 55
+z_mean: 0, z_variance: 44
+z_mean: 51, z_variance: 0
+Aggregated data: 47.056
+z_mean: 47, z_variance: 53
+z_mean: 0, z_variance: 45
+z_mean: 52, z_variance: 0
+Aggregated data: 46.949
+z_mean: 52, z_variance: 49
+z_mean: 0, z_variance: 50
+z_mean: 47, z_variance: 0
+Aggregated data: 46.549
+z_mean: 47, z_variance: 50
+z_mean: 0, z_variance: 49
+z_mean: 52, z_variance: 0
+Aggregated data: 46.601
+z_mean: 45, z_variance: 53
+z_mean: 0, z_variance: 46
+z_mean: 53, z_variance: 0
+Aggregated data: 46.375
+z_mean: 49, z_variance: 52
+z_mean: 0, z_variance: 47
+z_mean: 50, z_variance: 0
+Aggregated data: 46.537
+z_mean: 37, z_variance: 50
+z_mean: 2, z_variance: 49
+z_mean: 59, z_variance: 0
+Aggregated data: 46.418
+z_mean: 31, z_variance: 50
+z_mean: 5, z_variance: 49
+z_mean: 63, z_variance: 0
+Aggregated data: 46.270
+z_mean: 36, z_variance: 50
+z_mean: 2, z_variance: 49
+z_mean: 60, z_variance: 0
+Aggregated data: 45.806
+z_mean: 32, z_variance: 49
+z_mean: 4, z_variance: 50
+z_mean: 62, z_variance: 0
+Aggregated data: 45.838
+z_mean: 29, z_variance: 50
+z_mean: 6, z_variance: 49
+z_mean: 63, z_variance: 0
+Aggregated data: 45.564
+z_mean: 26, z_variance: 48
+z_mean: 8, z_variance: 51
+z_mean: 65, z_variance: 0
+Aggregated data: 45.370
+z_mean: 24, z_variance: 45
+z_mean: 9, z_variance: 53
+z_mean: 65, z_variance: 0
+Aggregated data: 45.440
+z_mean: 31, z_variance: 49
+z_mean: 5, z_variance: 50
+z_mean: 63, z_variance: 0
+Aggregated data: 45.407
+z_mean: 34, z_variance: 50
+z_mean: 4, z_variance: 49
+z_mean: 61, z_variance: 0
+Aggregated data: 45.704
+z_mean: 42, z_variance: 48
+z_mean: 1, z_variance: 51
+z_mean: 56, z_variance: 0
+Aggregated data: 45.829
+z_mean: 38, z_variance: 50
+z_mean: 2, z_variance: 49
+z_mean: 59, z_variance: 0
+Aggregated data: 45.916
+z_mean: 65, z_variance: 66
+z_mean: 9, z_variance: 20
+z_mean: 25, z_variance: 13
+Aggregated data: 37.845
+z_mean: 65, z_variance: 66
+z_mean: 10, z_variance: 18
+z_mean: 24, z_variance: 14
+Aggregated data: 40.058
+z_mean: 66, z_variance: 66
+z_mean: 12, z_variance: 17
+z_mean: 21, z_variance: 15
+Aggregated data: 40.848
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 19, z_variance: 15
+Aggregated data: 40.906
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 17
+z_mean: 19, z_variance: 15
+Aggregated data: 41.499
+z_mean: 66, z_variance: 66
+z_mean: 13, z_variance: 17
+z_mean: 19, z_variance: 16
+Aggregated data: 41.578
+z_mean: 66, z_variance: 66
+z_mean: 14, z_variance: 17
+z_mean: 18, z_variance: 16
+Aggregated data: 41.151
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 18, z_variance: 16
+Aggregated data: 41.661
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 17, z_variance: 16
+Aggregated data: 41.987
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 17
+z_mean: 17, z_variance: 16
+Aggregated data: 42.251
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.123
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.852
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.072
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.627
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.870
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.779
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.822
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.890
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.203
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.974
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.129
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.127
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.780
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.642
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.346
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.449
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.003
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.592
+z_mean: 66, z_variance: 66
+z_mean: 15, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.644
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.783
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.619
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.392
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.168
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.091
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.621
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.730
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.433
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.039
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.363
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.485
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.030
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.431
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.208
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 40.976
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.179
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.294
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.076
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 40.589
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 40.971
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 40.998
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.446
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.295
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.280
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.293
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.383
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.642
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.897
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.886
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.585
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.162
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.522
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.221
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.239
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.321
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.345
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.430
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.780
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.060
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.318
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.779
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.961
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.855
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.734
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.813
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.079
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.334
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.042
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.634
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.070
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.699
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.868
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.754
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.127
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.040
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.101
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.784
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.885
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.712
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.645
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.691
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.611
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.994
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.690
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.386
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.383
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.591
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.919
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.309
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.158
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.939
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.452
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.393
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.489
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.645
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.831
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.748
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.017
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.873
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.079
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.942
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.679
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.737
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.736
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.987
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.808
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.255
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.246
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.384
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.322
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.389
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.421
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.868
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.096
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.320
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.052
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.994
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.201
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.960
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.409
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.337
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.672
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.124
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.519
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.819
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.978
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.967
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.833
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.341
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.878
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.621
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.525
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.701
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.452
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.915
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.205
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.119
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.111
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.613
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.258
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.058
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.359
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.016
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.948
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.040
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.396
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.188
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.314
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.895
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.613
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.670
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.690
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.495
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.925
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.708
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.640
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.715
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.741
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.227
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.619
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.519
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.187
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.738
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.500
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.829
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.071
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.797
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.798
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.138
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.949
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.897
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.808
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.834
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.251
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.858
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.901
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.401
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.423
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.643
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.092
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.015
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.650
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.947
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.280
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.970
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.534
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.628
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.722
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.359
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.251
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.076
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.988
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.019
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.708
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.222
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.570
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.127
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.235
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.136
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.671
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.780
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.176
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.457
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.216
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.199
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.049
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.798
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.663
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.458
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.812
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.145
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.734
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.628
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.007
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.680
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.912
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.445
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.286
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.797
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.696
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.027
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.701
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.371
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.295
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.116
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.235
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.043
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.678
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.329
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.746
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.146
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.104
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.848
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.931
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.809
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.678
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.491
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.845
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.404
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.498
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.310
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.043
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.712
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 41.870
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.324
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.137
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.370
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.435
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.336
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.521
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.671
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.832
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.476
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.379
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.531
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.558
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.733
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.637
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.351
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.954
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.267
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.615
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.960
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.008
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.150
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.827
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.906
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.787
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.866
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.852
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.612
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 44.103
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.862
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.176
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.870
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.601
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.549
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.729
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.519
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.213
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.739
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.506
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.351
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.175
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.746
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.704
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.731
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.032
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.266
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.096
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.763
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.874
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.060
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.742
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.014
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.123
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 42.985
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.039
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 17, z_variance: 16
+Aggregated data: 43.650
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.292
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.994
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.746
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.735
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.711
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.349
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.095
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.192
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.968
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.812
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.566
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.493
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.059
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.407
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.477
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.685
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.831
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.134
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.423
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.708
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.037
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.151
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.630
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.640
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.634
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.929
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.245
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.621
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.644
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.445
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.642
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.293
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.332
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.070
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.105
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.308
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.170
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.929
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.142
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.506
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.586
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.831
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.408
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.829
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.174
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.530
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.375
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.448
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.656
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.605
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.102
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.026
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.220
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.299
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.307
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.387
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.740
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.609
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.583
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.045
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.942
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.722
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.297
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.414
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.763
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.251
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.889
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.880
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.363
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.780
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.603
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.502
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.948
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.450
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.912
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.119
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.838
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.494
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.722
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.527
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.366
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.741
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.080
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.290
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.094
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.093
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.492
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.301
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.431
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.433
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.196
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.334
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.299
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.490
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.015
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.000
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.069
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.115
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.189
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.456
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.291
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.324
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.380
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.209
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.345
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.358
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.171
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.175
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.575
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.971
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.680
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.498
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.148
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.325
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.357
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.196
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.978
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.752
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.929
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.048
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.835
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.176
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.608
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.215
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.103
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.745
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.737
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.253
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.215
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.884
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.952
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.079
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.924
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.158
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.834
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.380
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.416
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.338
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.038
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.863
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.274
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.282
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.329
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.113
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.140
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.977
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.375
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.038
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.468
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.136
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.885
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.281
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.374
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.112
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.307
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.149
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.247
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.384
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.540
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.016
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.638
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.936
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.576
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.910
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.018
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.675
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.343
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.936
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.172
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.210
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.159
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.218
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.963
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.050
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.510
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.412
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.985
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.206
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.974
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.021
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.749
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.686
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.018
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.241
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.152
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.146
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.225
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.439
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.932
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.444
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.648
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.881
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.877
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.841
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.161
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.430
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.636
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.161
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.065
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.225
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.524
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.416
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.764
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.161
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.455
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.523
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.347
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.281
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.418
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.393
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.484
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.606
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.694
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.317
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.388
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 47.042
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.916
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.499
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.197
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.838
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.636
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.515
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.924
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.962
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.059
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.756
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.065
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.274
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.676
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.309
+z_mean: 66, z_variance: 66
+z_mean: 17, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.979
+z_mean: 66, z_variance: 66
+z_mean: 17, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 46.129
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.904
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.792
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.459
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.713
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.345
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.941
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.900
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.387
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.225
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.929
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.826
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.915
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.934
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.673
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.675
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.791
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.760
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.260
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.419
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.782
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.302
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.396
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.576
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.834
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.440
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.219
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.279
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.595
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.660
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.165
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.715
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.785
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.860
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.085
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.710
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.686
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.502
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.571
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.486
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.444
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.508
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.999
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.137
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.956
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.138
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.567
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.653
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.247
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.603
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.610
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.777
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.702
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.023
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.059
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.684
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.080
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.209
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.977
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.549
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.702
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.537
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.507
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.472
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.343
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.812
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.221
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.437
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.313
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.731
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.596
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.216
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.215
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.230
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.790
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.658
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.402
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.868
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.751
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.706
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.976
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.137
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.092
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.872
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.910
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.485
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.793
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.610
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.345
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.070
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.023
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.888
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.298
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.338
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.834
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.817
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.483
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.338
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.980
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.634
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.015
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.252
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.502
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.183
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.436
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.524
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.837
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.048
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.647
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.882
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.234
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.596
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.553
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.430
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.359
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.470
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.369
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.631
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.578
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.795
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.691
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.266
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.170
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.381
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.303
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.066
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.774
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.657
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.081
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.188
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.407
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.920
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.519
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.913
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.809
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 45.108
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.935
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.501
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 44.449
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.748
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.436
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.697
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.254
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.272
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.305
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.603
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.253
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.974
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.829
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.215
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.485
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.010
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.852
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.665
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.846
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.877
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.660
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.112
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.030
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.791
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.667
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.277
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.771
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.090
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.971
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.016
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.073
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.663
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.944
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.835
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.654
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.358
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.386
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.655
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.943
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.634
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.712
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.810
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.202
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.292
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.125
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.745
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.939
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.969
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.625
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.679
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.865
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.472
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.688
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.060
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 43.280
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.906
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.787
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.816
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.618
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.278
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.144
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.968
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.879
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.715
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.611
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.642
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.947
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 42.023
+z_mean: 66, z_variance: 66
+z_mean: 16, z_variance: 16
+z_mean: 16, z_variance: 16
+Aggregated data: 41.451
