@@ -154,7 +154,7 @@ public class SimEventCentral {
     public final String msg;
     LogOutputEvent(Mote mote, long time, String msg) {
       super(mote, time);
-      this.msg = msg + " " + time;
+      this.msg = msg + ", time: " + time + " ms" + ", moteID: " + mote.getID();
     }
     public String getMessage() {
       return msg;
