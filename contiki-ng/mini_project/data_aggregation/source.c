@@ -10,7 +10,8 @@
 #include <message.c>
 #include <shared_conf.h>
 
-#define SEND_INTERVAL (5 * CLOCK_SECOND)
+#define SEND_INTERVAL_MIN 3
+#define SEND_INTERVAL_MAX 10
 #define SAMPLE_MIN 0
 #define SAMPLE_MAX 100
 #define DELTA 10
@@ -89,7 +90,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	initialize_distribution_param(&min, &max);
 
 	// Schedule the first transmission
-	etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
+	etimer_set(&periodic_timer, generate_uniform(SEND_INTERVAL_MIN, SEND_INTERVAL_MAX) * CLOCK_SECOND);
 
 	// Button sensor
 	SENSORS_ACTIVATE(button_sensor);
