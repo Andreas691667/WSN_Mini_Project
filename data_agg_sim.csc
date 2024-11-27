@@ -2,13 +2,14 @@
 <simconf version="2023090101">
   <simulation>
     <title>data_aggregation_sim</title>
+    <speedlimit>2.0</speedlimit>
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.cooja.radiomediums.UDGM
       <transmitting_range>50.0</transmitting_range>
       <interference_range>100.0</interference_range>
-      <success_ratio_tx>0.7</success_ratio_tx>
+      <success_ratio_tx>1.0</success_ratio_tx>
       <success_ratio_rx>1.0</success_ratio_rx>
     </radiomedium>
     <events>
@@ -68,7 +69,7 @@
       <mote>
         <interface_config>
           org.contikios.cooja.interfaces.Position
-          <pos x="2.9744617686349133" y="26.115001030558666" />
+          <pos x="10.240807587997127" y="32.1237100734928" />
         </interface_config>
         <interface_config>
           org.contikios.cooja.mspmote.interfaces.MspMoteID
@@ -78,27 +79,25 @@
       <mote>
         <interface_config>
           org.contikios.cooja.interfaces.Position
-          <pos x="16.60771517965056" y="68.80042117235516" />
+          <pos x="23.315111320600295" y="61.39433793338983" />
         </interface_config>
         <interface_config>
           org.contikios.cooja.mspmote.interfaces.MspMoteID
           <id>3</id>
         </interface_config>
       </mote>
+      <mote>
+        <interface_config>
+          org.contikios.cooja.interfaces.Position
+          <pos x="11.563556809606796" y="54.59294126126463" />
+        </interface_config>
+        <interface_config>
+          org.contikios.cooja.mspmote.interfaces.MspMoteID
+          <id>4</id>
+        </interface_config>
+      </mote>
     </motetype>
   </simulation>
-  <plugin>
-    org.contikios.cooja.plugins.Visualizer
-    <plugin_config>
-      <moterelations>true</moterelations>
-      <skin>org.contikios.cooja.plugins.skins.IDVisualizerSkin</skin>
-      <skin>org.contikios.cooja.plugins.skins.GridVisualizerSkin</skin>
-      <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
-      <skin>org.contikios.cooja.plugins.skins.UDGMVisualizerSkin</skin>
-      <viewport>4.311275815425868 0.0 0.0 4.311275815425868 99.89718575246998 -36.25143027532711</viewport>
-    </plugin_config>
-    <bounds x="1" y="1" height="400" width="400" z="1" />
-  </plugin>
   <plugin>
     org.contikios.cooja.plugins.LogListener
     <plugin_config>
@@ -106,6 +105,42 @@
       <formatted_time />
       <coloring />
     </plugin_config>
-    <bounds x="400" y="0" height="402" width="936" z="2" />
+    <bounds x="400" y="0" height="402" width="936" z="5" />
+  </plugin>
+  <plugin>
+    org.contikios.cooja.serialsocket.SerialSocketServer
+    <mote_arg>0</mote_arg>
+    <plugin_config>
+      <port>60001</port>
+      <bound>true</bound>
+    </plugin_config>
+    <bounds x="0" y="0" height="116" width="362" z="4" />
+  </plugin>
+  <plugin>
+    org.contikios.cooja.serialsocket.SerialSocketServer
+    <mote_arg>1</mote_arg>
+    <plugin_config>
+      <port>60002</port>
+      <bound>true</bound>
+    </plugin_config>
+    <bounds x="4" y="159" height="116" width="362" z="3" />
+  </plugin>
+  <plugin>
+    org.contikios.cooja.serialsocket.SerialSocketServer
+    <mote_arg>3</mote_arg>
+    <plugin_config>
+      <port>60004</port>
+      <bound>true</bound>
+    </plugin_config>
+    <bounds x="7" y="304" height="116" width="362" z="2" />
+  </plugin>
+  <plugin>
+    org.contikios.cooja.serialsocket.SerialSocketServer
+    <mote_arg>2</mote_arg>
+    <plugin_config>
+      <port>60003</port>
+      <bound>true</bound>
+    </plugin_config>
+    <bounds x="5" y="426" height="116" width="362" z="1" />
   </plugin>
 </simconf>
