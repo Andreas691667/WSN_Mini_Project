@@ -44,12 +44,15 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.nio.ByteBuffer;
+import java.nio.charset.StandardCharsets;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.function.BiConsumer;
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
@@ -400,8 +403,33 @@ public class SerialSocketServer implements Plugin, MotePlugin {
               return;
             }
             try {
-              out.write(serialPort.getLastSerialData());
+
+              byte serialData = serialPort.getLastSerialData();
+
+              if (serialData == (byte) '#'){
+                // Retrieve simulation time
+                long simTime = simulation.getSimulationTime();
+                
+                // convert to string
+                String str = String.format(", time: %d ", simTime);
+
+                // Convert string to UTF-8 bytes
+                byte[] utf8Bytes = str.getBytes(StandardCharsets.UTF_8);
+
+                // Write to output stream
+                out.write(utf8Bytes);
+                out.flush();
+
+                outBytes += utf8Bytes.length;
+              }
+
+
+              out.write(serialData);
+
+              // Flush the stream
               out.flush();
+
+              // Increment byte count
               outBytes++;
             } catch (IOException ex) {
               logger.error("Failed writing:", ex);

@@ -9,6 +9,7 @@ for i in range(100):
         sock.connect(("localhost", 60001 + i))
         sock.setblocking(0)
         mote_sockets.append(sock)
+        print(f"Connected to mote {i}")
     except ConnectionRefusedError:
         continue  # Skip to the next socket if the connection is refused
 
@@ -23,7 +24,7 @@ while True:
         try:
             data = sock.recv(1024)
             if data:
-                print(data.decode("utf-8"))
+                # print(data.decode("utf-8"))
                 with open(f"data_{data_index}/mote_{i}_data.txt", "a") as f:
                     f.write(data.decode("utf-8"))
         except BlockingIOError:

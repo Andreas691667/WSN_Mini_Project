@@ -127,7 +127,7 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
   private final static String[] COLUMN_NAMES = {
     "Time ms",
     "Mote",
-    "Message",
+    "Message etc.",
     "#"
   };
 
@@ -230,9 +230,11 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
 
         StringBuilder sb = new StringBuilder();
         for (var data : logs) {
+          String messageWithTime = data.getTime() + " " + data.getID() + " " + data.ev.getMessage();
           sb.append(data.getTime()).append("\t");
           sb.append(data.getID()).append("\t");
-          sb.append(data.ev.getMessage()).append("\n");
+          // sb.append(data.ev.getMessage()).append("\n");
+          sb.append(messageWithTime).append("\n");
         }
 
         StringSelection stringSelection = new StringSelection(sb.toString());
@@ -581,8 +583,11 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
         hasHours = true;
         repaintTimeColumn();
       }
+
       var data = new LogData(ev);
+      
       logUpdateAggregator.add(data);
+
       if (appendToFile) {
         appendToFile(appendStreamFile, data.getTime() + "\t" + data.getID() + "\t" + data.ev.getMessage() + "\n");
       }
@@ -780,10 +785,21 @@ public class LogListener extends VisPlugin implements HasQuickHelp {
     final LogOutputEvent ev;
     FilterState    filtered;
 
+    private long time;
+    private int id;
+    private String message;
+
     LogData(LogOutputEvent ev) {
       this.ev = ev;
       this.filtered = FilterState.NONE;
     }
+
+    // public LogData(long time, int id, String message) {
+    //   this.time = time;
+    //   this.id = id;
+    //   this.message = message;
+    //   this.ev 
+    // }
 
     String getID() {
       return "ID:" + ev.getMote().getID();
