@@ -9,7 +9,7 @@ for i in range(100):
         sock.connect(("localhost", 60001 + i))
         sock.setblocking(0)
         mote_sockets.append(sock)
-        print(f"Connected to mote {i}")
+        print(f"Connected to mote {i+1}")
     except ConnectionRefusedError:
         continue  # Skip to the next socket if the connection is refused
 
