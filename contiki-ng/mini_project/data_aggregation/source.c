@@ -47,14 +47,18 @@ void update_distribution(int sample, int *sample_num, double *sum, double *sum_s
 	int next_idx = *sample_num + 1 == WINDOW_SIZE ? 0 : *sample_num + 1;
 	*sum += sample - samples[next_idx];
 	*sum_squared += (sample * sample) - (samples[next_idx] * samples[next_idx]);
-	if (*window_full) {
+	if (*window_full)
+	{
 		*mean = *sum / WINDOW_SIZE;
 		*variance = (*sum_squared / WINDOW_SIZE) - (*mean * *mean);
-	} else {
-		*mean = *sum / (*sample_num + 1);
-		*variance = (*sum_squared / (*sample_num+1)) - (*mean * *mean);
 	}
-	if (*sample_num == WINDOW_SIZE - 1) {
+	else
+	{
+		*mean = *sum / (*sample_num + 1);
+		*variance = (*sum_squared / (*sample_num + 1)) - (*mean * *mean);
+	}
+	if (*sample_num == WINDOW_SIZE - 1)
+	{
 		*window_full = 1;
 	}
 	*sample_num = (*sample_num + 1) % WINDOW_SIZE;
@@ -72,7 +76,8 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	static double variance = 0.;
 	static double sum_samples;
 	static double sum_squared_samples = 0.;
-	static bool node_fucked = false;
+	static bool active = true;
+	static int btn_count = 0;
 
 	PROCESS_BEGIN();
 
@@ -82,8 +87,17 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	// Register UDP connection
 	simple_udp_register(&udp_conn, CLIENT_PORT, NULL, SERVER_PORT, NULL);
 
-	// Set hardcoded server IP address
-	uip_ip6addr(&server_ipaddr, 0xfe80, 0, 0, 0, 0x0212, 0x7401, 0x0001, 0x0101);
+	// set the server ip address
+	if (node_id == 4 || node_id == 5 || node_id == 6)
+	{
+		// send to node 2
+		uip_ip6addr(&server_ipaddr, 0xfe80, 0, 0, 0, 0x0212, 0x7402, 0x0002, 0x0202);
+	}
+	else
+	{
+		// send to node 3
+		uip_ip6addr(&server_ipaddr, 0xfe80, 0, 0, 0, 0x0212, 0x7403, 0x0003, 0x0303);
+	}
 
 	// Set up random sampling range
 	initialize_distribution_param(&min, &max);
@@ -94,7 +108,6 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	// Button sensor
 	SENSORS_ACTIVATE(button_sensor);
 
-
 	while (1)
 	{
 		PROCESS_WAIT_EVENT();
@@ -102,22 +115,31 @@ PROCESS_THREAD(udp_client_process, ev, data)
 		// If button push, simulate malfunction
 		if (ev == sensors_event && data == &button_sensor)
 		{
-			if (node_fucked)
+			if (btn_count == 0)
 			{
-				// set back to normal
-				min = -1, max = -1;
-				initialize_distribution_param(&min, &max);
-				node_fucked = false;
-			} else {
 				// simulate malfunction
 				min = 300;
 				max = 500;
-				node_fucked = true;
+				btn_count++;
+			}
+			else if (btn_count == 1)
+			{
+				// stop sampling
+				active = false;
+				btn_count++;
+			}
+			else
+			{
+				// go back to normal
+				min = -1, max = -1;
+				initialize_distribution_param(&min, &max);
+				active = true;
+				btn_count = 0;
 			}
 		}
 
-		if (etimer_expired(&periodic_timer))
-		{		
+		if (etimer_expired(&periodic_timer) && active)
+		{
 			message_t message;
 			// Generate a sample and prepare the message
 			message.sample = generate_uniform(min, max);
@@ -133,7 +155,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 			// Send the UDP packet to the server
 			simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
-	
+
 			// Reschedule the next transmission with some jitter
 			etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
 		}
