@@ -153,8 +153,8 @@ def update_combined_lineplot(frame):
         for node_id, values in data.items():
             values, time = zip(*values)
             # start_idx = max(0, max_len - window_size)
-            agg_time = list(filter(lambda x: time[-1] - x < 5, agg_time))
-            start_idx = max(0, len(agg_values) - len(agg_time))
+            time = list(filter(lambda x: time[-1] - x < 5, time))
+            start_idx = max(0, len(agg_values) - len(time))
             ax2.plot(
                 time[start_idx:],
                 values[start_idx:],

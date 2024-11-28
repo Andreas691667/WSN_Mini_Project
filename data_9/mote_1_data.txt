@@ -1,0 +1,9 @@
+aggregator, node_id: 2, sample: 38.948, missed_samples: 0 , time: 719646744 #
+aggregator, node_id: 2, sample: 34.703, missed_samples: 0 , time: 723912407 #
+aggregator, node_id: 2, sample: 19.386, missed_samples: 0 , time: 728912384 #
+aggregator, node_id: 2, sample: 55.299, missed_samples: 0 , time: 734232645 #
+aggregator, node_id: 2, sample: 34.975, missed_samples: 0 , time: 738373319 #
+aggregator, node_id: 2, sample: 53.881, missed_samples: 1 , time: 744162431 #
+aggregator, node_id: 2, sample: 73.733, missed_samples: 0 , time: 748643087 #
+aggregator, node_id: 2, sample: 54.292, missed_samples: 0 , time: 753596217 #
+aggregator, node_id: 2, sample: 77.732, missed_samples: 0 , time: 758432129 #

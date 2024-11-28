@@ -2,6 +2,7 @@
     "files.associations": {
         "*.pl": "prolog",
         "simple-udp.h": "c",
-        "contiki.h": "c"
+        "contiki.h": "c",
+        "button-sensor.h": "c"
     }
 }
