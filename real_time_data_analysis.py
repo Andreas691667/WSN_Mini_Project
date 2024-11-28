@@ -29,36 +29,35 @@ def get_all_filenames(directory: str):
 
 # Global variables to store parsed data
 data = {}
-aggregated_data = []
-missed_data = []
+aggregated_data = {}
 
 
 def parse_data(lines):
-    global missed_data
-    for line in lines:
-        parts = line.split(", ")
-        for part in parts:
-            if part.startswith("sample:"):
-                sample_value = int(part.split(":")[1])
-                # Update global data dictionary
-                node_id = next(
-                    (p.split(":")[1] for p in parts if p.startswith("node_id")), None
-                )
+    try:
+        for line in lines:
+            parts = line.split(", ")
+            if parts[0].startswith("source"):
+                node_id = parts[1].split(":")[1]
+                sample_value = int(parts[2].split(":")[1])
                 if node_id is not None:
                     node_id = int(node_id)
                     if node_id not in data:
                         data[node_id] = []
                     time_value = parts[-1].split(":")[1]
-                    time_value = int(time_value[1:-2]) / 1000  # Extract time part only
+                    time_value = int(time_value[1:-2]) / 1000 # Convert ms to seconds
                     data[node_id].append((sample_value, time_value))
-
-            elif part.startswith("Aggregated data:"):
-                agg_value = part.split(":")[1]
+            elif parts[0].startswith("aggregator"):
+                node_id = int(parts[1].split(":")[1])
+                agg_value = parts[2].split(":")[1]
                 agg_value = 0 if agg_value == "" else float(agg_value)
+                missed = int(parts[3].split(":")[1])
                 time_value = parts[-1].split(":")[1]
-                time_value = int(time_value[1:-2]) / 1000 # Extract time part only
-                aggregated_data.append((round(agg_value), time_value))
-                missed_data.append(int(parts[-2].split(":")[1]))
+                time_value = int(time_value[1:-2]) / 1000 # Convert ms to seconds
+                if node_id not in aggregated_data:
+                    aggregated_data[node_id] = []
+                aggregated_data[node_id].append((round(agg_value), missed, time_value))
+    except Exception as e:
+        print(f"Error parsing data: {e}")
 
 
 
@@ -102,76 +101,100 @@ def update_box_plot(frame):
 
     ax1.set_title("Live Box Plot of Samples")
     ax1.set_ylabel("Sample Values")
-    ax1.set_xlabel("Node IDs")
+    ax1.grid(True)
 
 
 def update_combined_lineplot(frame):
     ax2.clear()
+    ax3.clear()
 
     # Define the sliding window size
     window_size = 50
-
-    # Plot line for aggregated values with increased thickness
     if aggregated_data:
-        agg_values, agg_time = zip(*(aggregated_data))
-        start_idx = max(0, len(aggregated_data) - window_size)
-        ax2.plot(
-            agg_time[start_idx:],
-            agg_values[start_idx:],
-            marker='x',
-            markersize=10,
-            linestyle='-',
-            color='red',
-            linewidth=2.5,  # Thicker line for aggregated data
-            label="Aggregated Data"
-        )
-    
-
+        for key, value in aggregated_data.items():
+            # Plot line for aggregated values with increased thickness
+            agg_values, missed_data, agg_time = zip(*(value))
+            # start_idx = max(0, len(agg_values) - window_size)
+            agg_time = list(filter(lambda x: agg_time[-1] - x < 5, agg_time))
+            start_idx = max(0, len(agg_values) - len(agg_time))
+            ax2.plot(
+                agg_time,
+                agg_values[start_idx:],
+                marker=',',
+                markersize=10,
+                linestyle='-',
+                linewidth=3,  # Thicker line for aggregated data
+                label=f"N1: Aggregated Data From Node: {key}"
+            )
+            missed_window_cum = np.cumsum(missed_data[max(0, len(missed_data) - window_size):])
+            missed = sum(missed_data)
+            # Plot line for cumulative missed data
+            if missed_data:
+                start_idx = max(0, len(missed_data) - window_size)
+                ax3.plot(
+                    agg_time[start_idx:],
+                    missed_window_cum,
+                    marker='o',
+                    markersize=1,
+                    linestyle='-',
+                    label=f"Total Missed Data (node: {key}): {missed}"
+                )
+                # Update legend dynamically
+        ax3.set_title("Live Missed Data Plot")
+        ax3.set_xlabel("Time [s]")
+        ax3.set_ylabel("Count")
+        ax3.legend(loc="upper left")
+        ax3.grid(True)
 
     # Plot lines for each node's sample values
     if data:
+        max_len = max([len(values) for values in data.values()])
+            
         for node_id, values in data.items():
             values, time = zip(*values)
-            start_idx = max(0, len(values) - window_size)
+            # start_idx = max(0, max_len - window_size)
+            agg_time = list(filter(lambda x: time[-1] - x < 5, agg_time))
+            start_idx = max(0, len(agg_values) - len(agg_time))
             ax2.plot(
                 time[start_idx:],
                 values[start_idx:],
-                marker='o',
+                marker=',',
                 markersize=3,
-                linestyle='-',
+                linestyle='--',
+                alpha=0.4,
                 label=f"Node {node_id}"
             )
 
     # Add labels, title, and legend
     ax2.set_title("Live Line Plot")
-    ax2.set_xlabel("Time")
+    ax2.set_xlabel("Time [s]")
     ax2.set_ylabel("Values")
     ax2.legend(loc="upper left")
     ax2.grid(True)
     
-def update_missed_plot(frame):
-    ax3.clear()
-    window_size = 50
-    if aggregated_data:
-        _, agg_time = zip(*aggregated_data)
-        missed_window_cum = np.cumsum(missed_data[max(0, len(missed_data) - window_size):])
-        missed = sum(missed_data)
-        # Plot line for cumulative missed data
-        if missed_data:
-            start_idx = max(0, len(missed_data) - window_size)
-            ax3.plot(
-                agg_time[start_idx:],
-                missed_window_cum,
-                marker='o',
-                markersize=1,
-                linestyle='-',
-                color='black',
-                label=f"Missed Data - Total: {missed}"
-            )
-            # Update legend dynamically
-        ax3.set_xlabel("Time")
-        ax3.set_ylabel("Missed Data")
-        ax3.legend(loc="upper left")
+# def update_missed_plot(frame):
+#     ax3.clear()
+#     window_size = 50
+#     if aggregated_data:
+#         _, agg_time = zip(*aggregated_data)
+#         missed_window_cum = np.cumsum(missed_data[max(0, len(missed_data) - window_size):])
+#         missed = sum(missed_data)
+#         # Plot line for cumulative missed data
+#         if missed_data:
+#             start_idx = max(0, len(missed_data) - window_size)
+#             ax3.plot(
+#                 agg_time[start_idx:],
+#                 missed_window_cum,
+#                 marker='o',
+#                 markersize=1,
+#                 linestyle='-',
+#                 color='black',
+#                 label=f"Missed Data - Total: {missed}"
+#             )
+#             # Update legend dynamically
+#         ax3.set_xlabel("Time")
+#         ax3.set_ylabel("Missed Data")
+#         ax3.legend(loc="upper left")
 
 if __name__ == "__main__":
     # Determine the latest data directory
@@ -190,9 +213,9 @@ if __name__ == "__main__":
     # Initialize Matplotlib plot
     fig, (ax1, ax2, ax3) = plt.subplots(3, 1, figsize=(10, 8))  # Three subplots: box plot, missed plot and line plot
 
-    ani1 = FuncAnimation(fig, update_missed_plot, interval=1000)
+    # ani1 = FuncAnimation(fig, update_missed_plot, interval=1000)
+    ani1 = FuncAnimation(fig, update_box_plot, interval=1000)
     ani2 = FuncAnimation(fig, update_combined_lineplot, interval=1000)
-    ani3 = FuncAnimation(fig, update_box_plot, interval=1000)
 
     plt.tight_layout()
     plt.show()
