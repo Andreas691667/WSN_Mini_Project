@@ -10,7 +10,7 @@
 #include <message.c>
 #include <shared_conf.h>
 
-#define SEND_INTERVAL (5 * CLOCK_SECOND)
+#define SEND_INTERVAL (4 * CLOCK_SECOND)
 #define SAMPLE_MIN 0
 #define SAMPLE_MAX 100
 #define DELTA 10

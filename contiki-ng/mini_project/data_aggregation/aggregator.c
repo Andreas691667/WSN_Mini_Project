@@ -35,12 +35,13 @@ double aggregate_data(double *variances, double *samples)
 
     for (int i = 0; i < NUM_NODES; i++)
     {
-        double weight = 1 ? variances[i] == 0 : 1. / variances[i];
+        double weight = variances[i] == 0 ? 1 : 1. / variances[i];
+        // double weight = 1. / variances[i];
         weighted_sum += weight * samples[i];
         sum_weights += weight;
     }
 
-    return weighted_sum / sum_weights ? sum_weights != 0 : 0;
+    return sum_weights != 0 ? weighted_sum / sum_weights : 0;
 }
 
 // Construct the distribution array from the messages
