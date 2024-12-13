@@ -1,6 +1,8 @@
 import socket
 import os
 
+LOGS_DIR = os.path.join("..", "logs")  # Path to logs directory from data_collection folder
+
 # Connect to the Cooja serial socket
 mote_sockets = []
 for i in range(100):
@@ -11,12 +13,16 @@ for i in range(100):
         mote_sockets.append(sock)
         print(f"Connected to mote {i+1}")
     except ConnectionRefusedError:
-        continue  # Skip to the next socket if the connection is refused
+        continue  # Skip if the connection is refused
 
 data_index = 1
-while os.path.exists(f"data_{data_index}"):
+# Check for existing data directories inside logs
+while os.path.exists(os.path.join(LOGS_DIR, f"data_{data_index}")):
     data_index += 1
-os.makedirs(f"data_{data_index}")
+
+# Create the new data directory inside logs
+new_data_directory = os.path.join(LOGS_DIR, f"data_{data_index}")
+os.makedirs(new_data_directory)
 
 # Read data from the mote's serial output
 while True:
@@ -24,8 +30,9 @@ while True:
         try:
             data = sock.recv(1024)
             if data:
-                # print(data.decode("utf-8"))
-                with open(f"data_{data_index}/mote_{i}_data.txt", "a") as f:
+                file_path = os.path.join(new_data_directory, f"mote_{i}_data.txt")
+                with open(file_path, "a") as f:
                     f.write(data.decode("utf-8"))
         except BlockingIOError:
-            continue  # Skip to the next socket if no data is available
+            # No data available, move on
+            continue
