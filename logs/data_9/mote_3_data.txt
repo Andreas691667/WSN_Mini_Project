@@ -1,9 +1,0 @@
-source, node_id: 5, sample: 33, mean: 46.540, variance: 1030.568 , time: 719594034 #
-source, node_id: 5, sample: 26, mean: 46.569, variance: 1029.245 , time: 723851943 #
-source, node_id: 5, sample: 3, mean: 45.979, variance: 1045.499 , time: 728851692 #
-source, node_id: 5, sample: 64, mean: 46.509, variance: 1036.229 , time: 734187800 #
-source, node_id: 5, sample: 33, mean: 46.240, variance: 1036.162 , time: 738328432 #
-source, node_id: 5, sample: 100, mean: 47.029, variance: 1058.069 , time: 744117445 #
-source, node_id: 5, sample: 93, mean: 47.439, variance: 1078.786 , time: 748273702 #
-source, node_id: 5, sample: 56, mean: 47.689, variance: 1076.754 , time: 752890936 #
-source, node_id: 5, sample: 89, mean: 47.919, variance: 1090.413 , time: 757984675 #
