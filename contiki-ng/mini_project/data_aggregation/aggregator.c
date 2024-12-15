@@ -131,7 +131,20 @@ static void udp_rx_callback(struct simple_udp_connection *c,
         agg_message.sample = aggregated_data;
         agg_message.missed_samples = messages_missed;
 
-        // print_message_agg(agg_message);
+        // construct the message ids
+        for (int i = 0; i < NUM_NODES; i++)
+        {
+            if (i < message_count)
+            {
+                agg_message.msg_ids_in_msg[i] = message_array[i].msg_id;
+                agg_message.node_ids_in_msg[i] = message_array[i].node_id;
+            }
+            else
+            {
+                agg_message.msg_ids_in_msg[i] = 0;
+                agg_message.node_ids_in_msg[i] = 0;
+            }
+        }
 
         // forward the message to the next node unless it is the last node
         if (node_id != 1)

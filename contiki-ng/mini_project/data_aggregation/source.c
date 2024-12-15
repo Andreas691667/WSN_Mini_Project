@@ -78,6 +78,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 	static double sum_squared_samples = 0.;
 	static bool active = true;
 	static int btn_count = 0;
+	static unsigned long msg_id = 1;
 
 	PROCESS_BEGIN();
 
@@ -150,6 +151,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 			message.node_id = node_id;
 			message.mean = mean;
 			message.variance = variance;
+			message.msg_id = msg_id;
 
 			print_message(message);
 
@@ -158,6 +160,8 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 			// Reschedule the next transmission with some jitter
 			etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
+			
+			msg_id++; 
 		}
 	}
 
