@@ -1,11 +1,11 @@
-import pandas as pd
+"""Metrics calculation script to calculate completeness, average latency, and average accuracy."""
 import re
+import pandas as pd
 
-
-# Function to parse a single aggregator log file
 def parse_aggregator_log(file_path):
+    """Function to parse the aggregator log and return a DataFrame with the parsed data."""
     aggregator_logs = []
-    with open(file_path, "r") as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         for line in file:
             # Regex to extract relevant fields from the aggregator log line
             match = re.match(
@@ -34,11 +34,11 @@ def parse_aggregator_log(file_path):
     return pd.DataFrame(aggregator_logs)
 
 
-# Function to parse multiple source log files and aggregate them
 def parse_source_logs(file_paths):
+    """Function to parse source logs and return a combined DataFrame with the parsed data."""
     source_logs = []
     for file_path in file_paths:
-        with open(file_path, "r") as file:
+        with open(file_path, "r", encoding="utf-8") as file:
             for line in file:
                 # Regex to extract relevant fields from the source log line
                 match = re.match(
@@ -67,8 +67,8 @@ def parse_source_logs(file_paths):
     return pd.DataFrame(source_logs)
 
 
-# Function to calculate metrics based on the logs
 def calculate_metrics(aggregator_df, source_df):
+    """Function to calculate metrics based on the aggregator and source dataframes."""
     total_source_messages = len(source_df)
     received_messages = 0
     total_latency = 0
@@ -115,23 +115,23 @@ def calculate_metrics(aggregator_df, source_df):
 
 
 # Paths to your .txt log files
-prefix = "logs/data_3/mote_"
-aggregator_log_file = f"{prefix}0_data.txt"
+PREFIX = "logs/data_3/mote_"
+aggregator_log_file = f"{PREFIX}0_data.txt"
 source_log_files = [
-    f"{prefix}3_data.txt",
-    f"{prefix}4_data.txt",
-    f"{prefix}5_data.txt",
-    f"{prefix}6_data.txt",
-    f"{prefix}7_data.txt",
-    f"{prefix}8_data.txt",
+    f"{PREFIX}3_data.txt",
+    f"{PREFIX}4_data.txt",
+    f"{PREFIX}5_data.txt",
+    f"{PREFIX}6_data.txt",
+    f"{PREFIX}7_data.txt",
+    f"{PREFIX}8_data.txt",
 ]
 
 # Parse the aggregator log and all source logs
-aggregator_df = parse_aggregator_log(aggregator_log_file)
-source_df = parse_source_logs(source_log_files)
+agg_df = parse_aggregator_log(aggregator_log_file)
+src_df = parse_source_logs(source_log_files)
 
 # Calculate metrics
-metrics = calculate_metrics(aggregator_df, source_df)
+metrics = calculate_metrics(agg_df, src_df)
 
 # Output the metrics
 print(f"Total messages: {metrics['total_messages']}")
