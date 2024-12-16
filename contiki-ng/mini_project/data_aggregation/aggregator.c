@@ -146,6 +146,9 @@ static void udp_rx_callback(struct simple_udp_connection *c,
             }
         }
 
+        // UNCOMMENT IF USING TOPOLOGY 3
+        // print_message_agg(agg_message);
+
         // forward the message to the next node unless it is the last node
         if (node_id != 1)
         {

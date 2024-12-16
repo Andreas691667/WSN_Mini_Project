@@ -18,7 +18,7 @@ def parse_aggregator_log(file_path):
                 missed_samples = int(match.group(3))
                 msg_ids_in_msg = list(map(int, match.group(4).split(", ")))
                 node_ids_in_msg = list(map(int, match.group(5).split(", ")))
-                time = int(match.group(6))
+                time = float(match.group(6))
 
                 # Store parsed data in a dictionary
                 aggregator_logs.append(
@@ -51,7 +51,7 @@ def parse_source_logs(file_paths):
                     mean = float(match.group(3))
                     variance = float(match.group(4))
                     msg_id = int(match.group(5))
-                    time = int(match.group(6))
+                    time = float(match.group(6))
 
                     # Store parsed data in a dictionary
                     source_logs.append(
@@ -115,15 +115,15 @@ def calculate_metrics(aggregator_df, source_df):
 
 
 # Paths to your .txt log files
-PREFIX = "logs/data_3/mote_"
-aggregator_log_file = f"{PREFIX}0_data.txt"
+PREFIX = "logs/data_5/mote_"
+aggregator_log_file = f"{PREFIX}1_data.txt"
 source_log_files = [
-    f"{PREFIX}3_data.txt",
     f"{PREFIX}4_data.txt",
     f"{PREFIX}5_data.txt",
     f"{PREFIX}6_data.txt",
     f"{PREFIX}7_data.txt",
     f"{PREFIX}8_data.txt",
+    f"{PREFIX}9_data.txt",
 ]
 
 # Parse the aggregator log and all source logs
@@ -133,10 +133,17 @@ src_df = parse_source_logs(source_log_files)
 # Calculate metrics
 metrics = calculate_metrics(agg_df, src_df)
 
+# convert avg latency from microseconds to seconds
+metrics['avg_latency'] /= 1e6
+
+# round latency and accuracy to 2 decimal places
+metrics['avg_latency'] = round(metrics['avg_latency'], 2)
+metrics['avg_accuracy'] = round(metrics['avg_accuracy'], 2)
+
 # Output the metrics
 print(f"Total messages: {metrics['total_messages']}")
 print(f"Received messages: {metrics['received_messages']}")
 print(f"Missed messages: {metrics['missed_messages']}")
 print(f"Completeness: {metrics['completeness']:.2f}%")
-print(f"Average latency: {metrics['avg_latency']} ms")
+print(f"Average latency: {metrics['avg_latency']} s")
 print(f"Average accuracy: {metrics['avg_accuracy']} units")
