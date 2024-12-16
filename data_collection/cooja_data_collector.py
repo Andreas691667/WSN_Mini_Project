@@ -10,7 +10,7 @@ for i in range(100):
     try:
         sock.connect(("localhost", 60001 + i))
         sock.setblocking(0)
-        mote_sockets.append(sock)
+        mote_sockets.append((i+1, sock))
         print(f"Connected to mote {i+1}")
     except ConnectionRefusedError:
         continue  # Skip if the connection is refused
@@ -26,7 +26,7 @@ os.makedirs(new_data_directory)
 
 # Read data from the mote's serial output
 while True:
-    for i, sock in enumerate(mote_sockets):
+    for i, sock in mote_sockets:
         try:
             data = sock.recv(1024)
             if data:
