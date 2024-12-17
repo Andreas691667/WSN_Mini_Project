@@ -163,7 +163,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 			simple_udp_sendto(&udp_conn, &message, sizeof(message), &server_ipaddr);
 
 			// Reschedule the next transmission with some jitter
-			etimer_set(&periodic_timer, SEND_INTERVAL - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
+			etimer_set(&periodic_timer, SEND_INTERVAL + (random_rand() % (2 * CLOCK_SECOND)));
 			
 			msg_id++; 
 		}
