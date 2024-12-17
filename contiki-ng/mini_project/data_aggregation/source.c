@@ -154,9 +154,6 @@ PROCESS_THREAD(udp_client_process, ev, data)
 			message.variance = variance;
 			message.msg_id = msg_id;
 
-			// print sizeof sample
-			// printf("size of sample: %d\n", sizeof(double));
-
 			print_message(message);
 
 			// Send the UDP packet to the server
