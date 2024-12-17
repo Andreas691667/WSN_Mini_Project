@@ -115,7 +115,7 @@ def calculate_metrics(aggregator_df, source_df):
 
 
 # Paths to your .txt log files
-PREFIX = "logs/data_5/mote_"
+PREFIX = "logs/data_13/mote_"
 aggregator_log_file = f"{PREFIX}1_data.txt"
 source_log_files = [
     f"{PREFIX}4_data.txt",

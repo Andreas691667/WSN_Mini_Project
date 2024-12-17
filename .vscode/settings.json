@@ -3,6 +3,9 @@
         "*.pl": "prolog",
         "simple-udp.h": "c",
         "contiki.h": "c",
-        "button-sensor.h": "c"
+        "button-sensor.h": "c",
+        "random.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }

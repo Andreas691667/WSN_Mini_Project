@@ -1,3 +1,6 @@
+
+#include <inttypes.h>
+
 typedef struct {
     uint16_t node_id;
     int sample;
@@ -18,12 +21,12 @@ void print_message(message_t node)
 {
     // handle doubles
     int a_mean = node.mean;
-    int a_variance = node.variance;
+    uint32_t a_variance = node.variance;
     double b_mean = (node.mean - a_mean) * 1000;
     double b_variance = (node.variance - a_variance) * 1000;
 
     // print message
-    printf("source, node_id: %d, sample: %d, mean: %d.%03u, variance: %d.%03u, msg_id: %lu #\n", 
+    printf("source, node_id: %d, sample: %d, mean: %d.%03u, variance: %" PRIu32 ".%03u, msg_id: %lu #\n", 
     node.node_id, 
     node.sample, 
     a_mean, 

@@ -45,8 +45,9 @@ void update_distribution(int sample, int *sample_num, double *sum, double *sum_s
 {
 	samples[*sample_num] = sample;
 	int next_idx = *sample_num + 1 == WINDOW_SIZE ? 0 : *sample_num + 1;
-	*sum += sample - samples[next_idx];
-	*sum_squared += (sample * sample) - (samples[next_idx] * samples[next_idx]);
+	*sum += (double)sample - (double)samples[next_idx];
+
+	*sum_squared += (double)(((double)sample * (double)sample) - ((double)samples[next_idx] * (double)samples[next_idx]));
 	if (*window_full)
 	{
 		*mean = *sum / WINDOW_SIZE;
@@ -152,6 +153,9 @@ PROCESS_THREAD(udp_client_process, ev, data)
 			message.mean = mean;
 			message.variance = variance;
 			message.msg_id = msg_id;
+
+			// print sizeof sample
+			// printf("size of sample: %d\n", sizeof(double));
 
 			print_message(message);
 

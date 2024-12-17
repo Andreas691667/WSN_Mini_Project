@@ -1,0 +1,37 @@
+[INFO: Main      ] Starting Contiki-NG
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 8
+[INFO: Main      ] Link-layer address: 0012.7408.0008.0808
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7408:8:808
+[INFO: Sky       ] CC2420 CCA threshold -45
+source, node_id: 8, sample: 52, mean: 52.000, variance: 0.000, msg_id: 1 , time: 3459279 #
+source, node_id: 8, sample: 24, mean: 38.000, variance: 196.000, msg_id: 2 , time: 7108779 #
+source, node_id: 8, sample: 54, mean: 43.333, variance: 187.555, msg_id: 3 , time: 11813124 #
+source, node_id: 8, sample: 49, mean: 44.750, variance: 146.687, msg_id: 4 , time: 15414558 #
+source, node_id: 8, sample: 31, mean: 42.000, variance: 147.599, msg_id: 5 , time: 19632836 #
+source, node_id: 8, sample: 74, mean: 47.333, variance: 265.222, msg_id: 6 , time: 23563129 #
+source, node_id: 8, sample: 38, mean: 46.000, variance: 238.000, msg_id: 7 , time: 27171297 #
+source, node_id: 8, sample: 47, mean: 46.125, variance: 208.359, msg_id: 8 , time: 30805209 #
+source, node_id: 8, sample: 8, mean: 41.888, variance: 328.765, msg_id: 9 , time: 34680173 #
+source, node_id: 8, sample: 33, mean: 41.000, variance: 303.000, msg_id: 10 , time: 38390374 #
+source, node_id: 8, sample: 6, mean: 37.818, variance: 376.694, msg_id: 11 , time: 42407099 #
+source, node_id: 8, sample: 70, mean: 40.500, variance: 424.416, msg_id: 12 , time: 46805542 #
+source, node_id: 8, sample: 29, mean: 39.615, variance: 401.159, msg_id: 13 , time: 51258813 #
+source, node_id: 8, sample: 8, mean: 37.357, variance: 438.801, msg_id: 14 , time: 55618025 #
+source, node_id: 8, sample: 47, mean: 38.000, variance: 415.333, msg_id: 15 , time: 59586302 #
+source, node_id: 8, sample: 33, mean: 37.687, variance: 390.839, msg_id: 16 , time: 64266535 #
+source, node_id: 8, sample: 10, mean: 36.058, variance: 410.290, msg_id: 17 , time: 67633667 #
+source, node_id: 8, sample: 25, mean: 35.444, variance: 393.913, msg_id: 18 , time: 72016593 #
+source, node_id: 8, sample: 105, mean: 39.105, variance: 614.410, msg_id: 19 , time: 75649575 #
+source, node_id: 8, sample: 20, mean: 38.150, variance: 601.027, msg_id: 20 , time: 80227420 #
+source, node_id: 8, sample: 52, mean: 38.809, variance: 581.106, msg_id: 21 , time: 83790041 #
+source, node_id: 8, sample: 23, mean: 38.090, variance: 565.537, msg_id: 22 , time: 86946164 #
+source, node_id: 8, sample: 63, mean: 39.173, variance: 566.752, msg_id: 23 , time: 91149392 #
+source, node_id: 8, sample: 66, mean: 40.291, variance: 571.873, msg_id: 24 , time: 94258745 #
+source, node_id: 8, sample: 52, mean: 40.759, variance: 554.262, msg_id: 25 , time: 97985315 #
+source, node_id: 8, sample: 30, mean: 40.346, variance: 537.226, msg_id: 26 , time: 101422871 #
+source, node_id: 8, sample: 13, mean: 39.333, variance: 544.000, msg_id: 27 , time: 104539838 #
