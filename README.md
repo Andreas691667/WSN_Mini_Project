@@ -1,2 +1,0 @@
-# Wireless Sensor Networks - Sensor Data Collection and Data Aggregation
-This repository contains code and documentation for a project exploring Sensor Data Collection and Data Aggregation in Wireless Sensor Networks (WSNs). The project simulates a WSN using the Cooja simulator, collects and aggregates sensor data, and visualizes the results in real-time. By comparing scenarios with and without data aggregation, we aim to demonstrate improvements in energy efficiency, latency, and data accuracy.
